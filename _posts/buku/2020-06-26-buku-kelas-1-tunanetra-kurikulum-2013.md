@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buku Kelas 1 Tunanetra Kurikulum 2013
+title: Buku Tematik Kelas 1 Tunanetra Kurikulum 2013
 description: Download atau baca online buku tematik pendidikan khusus kelas 1
   kurikulum 2013 untuk jenis kekhususan Tunanetra
 last_modified_date: 2020-06-26T02:41:52.895Z
@@ -24,9 +24,9 @@ Buku yang kali ini dibagikan adalah **buku tematik tunanetra kelas 1 kurikulum 2
 
 1. Tema 1 
 2. Tema 2 
-3. Tema 3 <a href="https://docs.google.com/uc?export=download&id=0B5hMZbwMItOzVGZpNWp3Q0E4dkk" title="Buku Guru Kelas 12 Kurikulum 2013 Bahasa Indonesia">Download</a>
-4. Tema 4 <a href="https://docs.google.com/uc?export=download&id=0B5hMZbwMItOzZG5BbXljY01uRmM" title="Buku Guru Kelas 12 Kurikulum 2013 Bahasa Indonesia">Download</a>
-5. Tema 5 <a href="https://docs.google.com/uc?export=download&id=0B5hMZbwMItOzQ0MwLUJfdW41SFE" title="Buku Guru Kelas 12 Kurikulum 2013 Bahasa Indonesia">Download</a>
-6. Tema 6 <a href="https://docs.google.com/uc?export=download&id=0B5hMZbwMItOzWHRQUG9xaTc1Nmc" title="Buku Guru Kelas 12 Kurikulum 2013 Bahasa Indonesia">Download</a>
+3. Tema 3 <a href="https://docs.google.com/uc?export=download&id=0B5hMZbwMItOzVGZpNWp3Q0E4dkk" title="Buku Tematik Kelas 1 Tunanetra Kurikulum 2013 Tema 3">Download</a>
+4. Tema 4 <a href="https://docs.google.com/uc?export=download&id=0B5hMZbwMItOzZG5BbXljY01uRmM" title="Buku Tematik Kelas 1 Tunanetra Kurikulum 2013 Tema 3">Download</a>
+5. Tema 5 <a href="https://docs.google.com/uc?export=download&id=0B5hMZbwMItOzQ0MwLUJfdW41SFE" title="Buku Tematik Kelas 1 Tunanetra Kurikulum 2013 Tema 3">Download</a>
+6. Tema 6 <a href="https://docs.google.com/uc?export=download&id=0B5hMZbwMItOzWHRQUG9xaTc1Nmc" title="Buku Tematik Kelas 1 Tunanetra Kurikulum 2013 Tema 3">Download</a>
 7. Tema 7 
 8. Tema 8 
