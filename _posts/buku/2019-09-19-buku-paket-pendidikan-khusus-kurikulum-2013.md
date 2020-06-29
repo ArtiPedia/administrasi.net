@@ -67,4 +67,4 @@ Berikut ini buku paket untuk jenis kekhususan Tunarungu:
 1. Buku Guru Tema 1-4 [Download](https://docs.google.com/uc?export=download&id=1CiKAIWUl1p3M6905NFD1xeJ_-GwOs32I)
 2. Buku Siswa Tema 1-4 [Download](https://docs.google.com/uc?export=download&id=1of23oPE4tFvIY2pqAQvlCvbYr69tN6Fd)
 
-<div class="note catatan">Pasword: www.infokmoe.id</div>
+<div class="note catatan">Terdapat beberapa file Rar yang di protek dengan Password: www.infokmoe.id</div>
