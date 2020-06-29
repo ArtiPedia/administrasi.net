@@ -1,9 +1,9 @@
 ---
 title: Buku Paket Pendidikan Khusus Kurikulum 2013
-description: >-
-  Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku guru sampai
-  buku siswa.
+description: Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku
+  guru sampai buku siswa.
 date: 2019-09-29T03:58:32.913Z
+last_modified_date: 2020-06-29T05:16:46.665Z
 tags:
   - buku
   - abk
@@ -66,3 +66,5 @@ Berikut ini buku paket untuk jenis kekhususan Tunarungu:
 ### Kelas 4 Tunarungu
 1. Buku Guru Tema 1-4 [Download](https://docs.google.com/uc?export=download&id=1CiKAIWUl1p3M6905NFD1xeJ_-GwOs32I)
 2. Buku Siswa Tema 1-4 [Download](https://docs.google.com/uc?export=download&id=1of23oPE4tFvIY2pqAQvlCvbYr69tN6Fd)
+
+<div class="note catatan">Terdapat beberapa file Rar yang di protek dengan Password: www.infokmoe.id</div>
