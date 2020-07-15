@@ -18,7 +18,7 @@ tags:
 
 Akibat hilang/berkurangnya fungsi kecerdasannya, diperlukan buku yang sesuai dengan tingkat kecerdasannya sehingga proses pembelajaran di sekolah atau di rumah dapat dilaksanaan secara maksimal maka diperlukan buku panduan seperti buku sekolah elektronik agar mudah diakses oleh guru, siswa, dan juga orang tua.
 
-Buku yang kali ini dibagikan adalah **buku tematik tunagrahita kelas 1 kurikulum 2013**.
+Buku yang kali ini dibagikan adalah **buku tematik tunagrahita kelas 2 kurikulum 2013**.
 
 ### Download Buku Siswa Kelas 2 Tunagrahita Kurikulum 2013 
 
