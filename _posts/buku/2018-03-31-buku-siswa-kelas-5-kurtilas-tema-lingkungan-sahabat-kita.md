@@ -1,8 +1,7 @@
 ---
 title: Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita Kurikulum 2013
-description: >-
-  Download Buku siswa kelas 5 tema 8 Lingkungan Sahabat Kita buku kurikulum
-  2013 revisi 2017.
+description: Download Buku siswa kelas 5 tema 8 Lingkungan Sahabat Kita buku
+  kurikulum 2013 revisi 2017.
 last_modified_date: 2020-05-15T09:51:17.380Z
 tags:
   - buku
@@ -49,15 +48,13 @@ tags:
  
 </script>
 
-[Administrasi.Net](/ "Administrasi.Net") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13) Revisi. Seperti **Buku Siswa Kelas 5** Tema 8 dibawah ini:
+[Administrasi.Net](/ "Administrasi.Net") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13). Seperti halnya **Buku Siswa Kelas 5** Tema 8 dibawah ini:
 
-Penggunaan buku siswa tema lingkungan sahabat kita dapat memberikan gambaran kepada siswa yang dapat membantu dalam belajar di kelas atau dirumah.
+Penggunaan buku siswa kelas 5 tema lingkungan sahabat kita dapat memberikan gambaran kepada siswa yang dapat membantu dalam belajar di kelas atau dirumah.
 
 Buku paket kelas 5 terdiri dari buku guru dan buku siswa. Buku tersebut mengacu pada kurikulum terbaru yaitu kurikulum 2013 yang berlaku pada saat ini. 
 
-Implementasi Kurikulum 2013 bertujuan untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
 
-Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, lebih mengutamakan pada aktivitas siswa. Oleh karena itu buku siswa kelas 5 ini sangat penting dimiliki oleh siswa sebagai sumber belajar, dan buku guru sebagai panduan guru baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
 
 Struktur penulisan buku siswa kelas 5 ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
 
