@@ -1,8 +1,7 @@
 ---
 title: Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku Kurikulum 2013
-description: >-
-  Download Buku guru kelas 2 tema 2 Bermain dilingkunganku kurikulum 2013
-  revisi 2017 penunjang dalam melaksanakan pembelajaran di kelas.
+description: Download Buku guru kelas 2 tema 2 Bermain dilingkunganku kurikulum
+  2013 revisi 2017 penunjang dalam melaksanakan pembelajaran di kelas.
 last_modified_date: 2020-05-15T09:54:14.180Z
 tags:
   - buku
@@ -56,9 +55,7 @@ tags:
 
 Pada satuan pendidikan *sekolah dasar (SD)* saat ini menggunakan **kurikulum 2013** dimana dalam kurikulum tersebut bersifat tematik, artinya tiap mata pelajaran dileburkan ke dalam suatu tema. seperti halnya dalam **buku guru tema bermain dilingkunganku** yang disajikan pada halaman ini.
 
-Penggunaan Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku dapat memberikan gambaran kepada guru yang dalam mengelola dan mengembangkan kegiatan pembelajaran di kelas yang dituntut untuk mengimplementasikan Kurikulum 2013 untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
-
-Didalam kurikulum 2013 pendekatan pembelajaran yang digunakan adalah saintifik, yang lebih mengutamakan pada aktivitas siswa. Oleh karena itu buku kelas 2 ini sangat penting dimiliki oleh guru  sebagai panduan, baik itu dalam menyusun program pembelajaran ataupun mengelola kelas.
+Penggunaan Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku dapat memberikan gambaran kepada guru untuk mengelola dan mengembangkan kegiatan pembelajaran di kelas dengan mengimplementasikan Kurikulum 2013 untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
 
 Struktur penulisan Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
 
