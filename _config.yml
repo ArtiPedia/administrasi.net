@@ -5,6 +5,7 @@ description: "Administrasi.net menyajikan berbagai informasi informatif tentang 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://administrasi.net" # the name of your domain
 logo_url: svg/min/logo.svg
+image: https://administrasi.net/img/twitter-card.png
 
 # Hero
 hero: 
