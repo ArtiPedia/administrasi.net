@@ -9,6 +9,7 @@ tags:
   - pendidikan
   - guru
 ---
+
 Kementerian Pendidikan dan Kebudayaan melalui Direktorat Jenderal Guru dan Tenaga Pendidikan, Direktorat Guru dan Tenaga Kependidikan Pendidikan Anak Usia Dini membuka kesempatan pengisian jabatan fungsional untuk pamong belajar dan penilik dengan proses penyesuaian atau inpassing. Program ini diharapkan dapat memenuhi kebutuhan formasi jabatan fungsional pamong belajar dan penilik di seluruh daerah.
 
 Direktur Guru dan Tenaga Kependidikan Pendidikan Anak Usia Dini (PAUD), Kemendikbud, Santi Ambarrukmi mengatakan jabatan fungsional pamong belajar adalah jabatan yang mempunyai ruang lingkup tugas, tanggung jawab, dan wewenang untuk melakukan kegiatan belajar dan mengajar. Pamong belajar juga melaksanakan kajian program serta pengembangan model pendidikan nonformal dan informal pada unit pelaksana teknis pusat/daerah dan satuan pendidikan nonformal.
