@@ -2,7 +2,7 @@
 layout: post
 title: "Penyesuaian (Inpassing) Jabatan Fungsional "
 description: Penyesuaian (Inpassing) Jabatan Fungsional untuk Pamong Belajar dan Penilik
-last_modified_date: 2020-10-13T05:18:51.190Z
+last_modified_date: 2020-10-11T05:18:51.190Z
 tags:
   - berita
   - sekolah
