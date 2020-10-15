@@ -15,7 +15,7 @@ tags:
 
 ![Daftar Peserta dan Jadwal SKB CPNS Kemendikbud Tahun 2020 3](/img/daftar-peserta-dan-jadwal-skb-cpns-kemendikbud-tahun-anggaran-2019-3.jpg "Daftar Peserta dan Jadwal SKB CPNS Kemendikbud Tahun 2020 3")
 
-1. [***Unduh Pengumuman Daftar Peserta, Waktu, dan Tempat Pelaksanaan SKB CPNS TA 2019 di sini***.](https://www.kemdikbud.go.id/main/files/download/b3790b01ee16a2d) [](https://www.kemdikbud.go.id/main/files/download/b3790b01ee16a2d)\
-2. ***[Unduh Lampiran I Penjadwalan CBT di sini](https://www.kemdikbud.go.id/main/files/download/8c944490157f232)***[.](https://www.kemdikbud.go.id/main/files/download/b3790b01ee16a2d) [](https://www.kemdikbud.go.id/main/files/download/8c944490157f232)\
-3. [***Unduh Lampiran II Penjadwalan Wawancara Formasi UUP,UPT,LL Dikti di sini***.](https://www.kemdikbud.go.id/main/files/download/bd5060ba013f16b) [](https://www.kemdikbud.go.id/main/files/download/b3790b01ee16a2d) [](https://www.kemdikbud.go.id/main/files/download/bd5060ba013f16b)\
+1. [***Unduh Pengumuman Daftar Peserta, Waktu, dan Tempat Pelaksanaan SKB CPNS TA 2019 di sini***.](https://www.kemdikbud.go.id/main/files/download/b3790b01ee16a2d) [](https://www.kemdikbud.go.id/main/files/download/b3790b01ee16a2d)
+2. ***[Unduh Lampiran I Penjadwalan CBT di sini](https://www.kemdikbud.go.id/main/files/download/8c944490157f232)***[.](https://www.kemdikbud.go.id/main/files/download/b3790b01ee16a2d) [](https://www.kemdikbud.go.id/main/files/download/8c944490157f232)
+3. [***Unduh Lampiran II Penjadwalan Wawancara Formasi UUP,UPT,LL Dikti di sini***.](https://www.kemdikbud.go.id/main/files/download/bd5060ba013f16b) [](https://www.kemdikbud.go.id/main/files/download/b3790b01ee16a2d) [](https://www.kemdikbud.go.id/main/files/download/bd5060ba013f16b)
 4. [***Unduh Lampiran III Penjadwalan Wawancara dan MT Formasi PTN di sini***.](https://www.kemdikbud.go.id/main/files/download/bffc3e3fadcfd2c)
