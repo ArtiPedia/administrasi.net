@@ -16,8 +16,7 @@ Berikut persyaratan dan dokumen yang harus dicek oleh Kementerian Pendidikan dan
 | 1 | Kartu Tanda Penduduk  | Usia maksimum pendaftar pada 31 Desember di tahun pendaftaran adalah 40 (Empat Puluh) Tahun |
 | 2 | Ijazah S1 | Sudah lulus studi S1 |
 | 3 | Transkrip Nilai S1 | Memiliki Indeks Prestasi Kumulatif (IPK) pada jenjang studi sebelumnya sekurang-kurangnya 3,0 pada skala 4.|
-| 4 | LoA Unconditional (surat diterima di perguruan tinggi) yang masih berlaku dan sesuai dengan Perguruan Tinggi serta Program Studi yang dipilih | 1. Perguruan Tinggi dan Prodi sesuai list LPDP (Lampiran III)
-2. Sudah memulai studi pada semester 1 tahun ajaran 2020/2021 (semester ganjil) |
+| 4 | LoA Unconditional (surat diterima di perguruan tinggi) yang masih berlaku dan sesuai dengan Perguruan Tinggi serta Program Studi yang dipilih | Perguruan Tinggi dan Prodi sesuai list LPDP (Lampiran III)|
 | 5 | Surat Pernyataan sesuai format LPDP (bermaterai) | Sesuai Format LPDP (Lampiran II) dan ditandatangani di atas materai |
 | 6 | Surat Rekomendasi dari Akademisi 1 | Surat Rekomendasi dari Akademisi 1 yang ditandatangani |
 | 7 | Surat Rekomendasi Akademisi 2 (bagi yang belum bekerja) atau Atasan/Pimpinan Lembaga/Perusahaan (bagi yang sudah bekerja) | Surat Rekomendasi dari Akademisi 2 atau Atasan yang ditandatangani |
