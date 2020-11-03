@@ -1,8 +1,10 @@
 ---
 title: Buku PJOK SD Kurikulum 2013 Revisi 2019
-description: >-
-  Download Buku Guru dan siswa mata pelajaran PJOK untuk satuan pendidikan sekolah dasar (SD) kurikulum 2013 revisi 2019. Buku paket revisi terbaru semua kelas.
+description: Download Buku Guru dan siswa mata pelajaran PJOK untuk satuan
+  pendidikan sekolah dasar (SD) kurikulum 2013 revisi 2019. Buku paket revisi
+  terbaru semua kelas.
 date: 2019-10-06T04:49:09.000Z
+last_modified_date: 2020-11-03T01:35:38.504Z
 tags:
   - buku
   - pendidikan
@@ -13,17 +15,16 @@ tags:
   - download
 ---
 
-
 * TOC
 {:toc}
 
-Pendidikan Jasmani, Olahraga, dan Kesehatan (PJOK) bertujuan untuk mengembangkan aspek kebugaran jasmani, keterampilan gerak, keterampilan berpikir kritis, keterampilan sosial, penalaran, stabilitas emosional, tindakan moral, pola hidup sehat dan pengenalan lingkungan bersih, dilakukan secara sistematis dilandasi nilai-nilai keimanan dan ketakwaan.
+Pendidikan Jasmani, Olahraga, dan Kesehatan (*PJOK*) bertujuan untuk mengembangkan aspek kebugaran jasmani, keterampilan gerak, keterampilan berpikir kritis, keterampilan sosial, penalaran, stabilitas emosional, tindakan moral, pola hidup sehat dan pengenalan lingkungan bersih, dilakukan secara sistematis dilandasi nilai-nilai keimanan dan ketakwaan.
 
-Pada jenjang pendidikan SD/MI kelas rendah (kelas 1–3) diarahkan mencapai penyempurnaan dan pemantapan pola gerak dasar, pengembangan kebugaran jasmani, serta pola hidup sehat, dilakukan melalui permainan sederhana dan tradisional, aktivitas senam, aktivitas gerak berirama, aktivitas air, dan materi kesehatan.
+Pada jenjang pendidikan SD/MI kelas rendah (*kelas 1–3*) diarahkan mencapai penyempurnaan dan pemantapan pola gerak dasar, pengembangan kebugaran jasmani, serta pola hidup sehat, dilakukan melalui permainan sederhana dan tradisional, aktivitas senam, aktivitas gerak berirama, aktivitas air, dan materi kesehatan.
 
 Sedangkan pada kelas tinggi (4–6) diarahkan untuk pengembangan gerak dasar menuju kesiapan gerak spesifik, pengembangan kebugaran jasmani, serta gaya hidup sehat melalui permainan bola besar, permainan bola kecil, atletik, bela diri, senam, gerak berirama, aktivitas air, dan materi kesehatan.
 
-Untuk mencapai tujuan tersebut diperlukan Buku Guru PJOK Kurikulum 2013 revisi 2019 untuk memudahkan guru dalam menyusun program, menyampaikan materi, melakukan penilaian, menyajikan remedial, pengayaan, serta berinteraksi dengan orang tua.
+Untuk mencapai tujuan tersebut diperlukan *Buku Guru PJOK* Kurikulum 2013 revisi 2019 untuk memudahkan guru dalam menyusun program, menyampaikan materi, melakukan penilaian, menyajikan remedial, pengayaan, serta berinteraksi dengan orang tua.
 
 ## Isi Buku Guru PJOK SD Revisi 2019
 Petunjuk khusus memuat beberapa rubrik seperti berikut.
