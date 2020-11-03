@@ -55,7 +55,7 @@ tags:
 
 Buku ini dapat membantu guru dan siswa dalam pelasanaan kegiatan pembelajaran.
 
-## Buku Siswa Kelas 2 Tema 1 Hidup Rukun
+### Buku Siswa Kelas 2 Tema 1 Hidup Rukun
 
 |Uraian|Keterangan|
 | --- | --- |
