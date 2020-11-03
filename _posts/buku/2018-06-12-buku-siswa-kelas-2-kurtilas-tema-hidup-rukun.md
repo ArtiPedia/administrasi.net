@@ -1,9 +1,8 @@
 ---
 layout: news_item
 title: Buku Siswa Kelas 2 Tema Hidup Rukun Kurikulum 2013 Revisi 2017
-description: >-
-  Download Buku siswa kelas 2 tema 1 Hidup Rukun kurikulum 2013 revisi
-  2017 penunjang pembelajaran siswa dikelas 2 SD.
+description: Download Buku siswa kelas 2 tema 1 Hidup Rukun kurikulum 2013
+  revisi 2017 penunjang pembelajaran siswa dikelas 2 SD.
 last_modified_date: 2020-05-15T09:56:47.891Z
 tags:
   - buku
@@ -56,7 +55,7 @@ tags:
 
 Buku ini dapat membantu guru dan siswa dalam pelasanaan kegiatan pembelajaran.
 
-## Buku Siswa Kelas 2 Tema 1 Hidup Rukun
+### Buku Siswa Kelas 2 Tema 1 Hidup Rukun
 
 |Uraian|Keterangan|
 | --- | --- |
@@ -79,7 +78,7 @@ Penulis|Irene Maria Juli Asuti|
 3. Hidup Rukun Di Sekolah
 4. Hidup Rukun Di Masyarakat
 
-Buku siswa <b>kelas 2 semester 1 Tema 1</b> ini berisi sebagai berikut.
+**Buku siswa** <b>kelas 2 semester 1 Tema 1</b> ini berisi sebagai berikut.
 1. Buku Siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 2. Buku Siswa dilengkapi dengan penjelasan lebih rinci tentang isi dan penggunaan buku sebagaimana dituangkan dalam Buku Guru.
 3. Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru atau mengembangkan ide-ide pembelajaran sendiri.
@@ -92,9 +91,9 @@ Buku siswa <b>kelas 2 semester 1 Tema 1</b> ini berisi sebagai berikut.
 <b>Kegiatan pembelajaran</b> di <b>buku</b> ini didesain untuk mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan) peserta didik melalui aktivitas yang bervariasi sebagai berikut.
 <ol><li>Membuka pelajaran yang menarik perhatian peserta didik seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah, dan sebagainya.</li><li>Menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan).</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari.</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep.</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi.</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari.</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol>
   
-## Pertimbangan
+### Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
   
-## Download Buku Siswa Kelas 2 Tema Hidup Rukun
+### Download Buku Siswa Kelas 2 Tema Hidup Rukun
 Klik tombol download atau baca
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=0B1j4dij_cZkMNDNFdXQ5WkJLV1E" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/0B1j4dij_cZkMNDNFdXQ5WkJLV1E/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
