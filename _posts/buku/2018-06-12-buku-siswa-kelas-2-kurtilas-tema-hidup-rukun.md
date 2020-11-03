@@ -1,9 +1,8 @@
 ---
 layout: news_item
 title: Buku Siswa Kelas 2 Tema Hidup Rukun Kurikulum 2013 Revisi 2017
-description: >-
-  Download Buku siswa kelas 2 tema 1 Hidup Rukun kurikulum 2013 revisi
-  2017 penunjang pembelajaran siswa dikelas 2 SD.
+description: Download Buku siswa kelas 2 tema 1 Hidup Rukun kurikulum 2013
+  revisi 2017 penunjang pembelajaran siswa dikelas 2 SD.
 last_modified_date: 2020-05-15T09:56:47.891Z
 tags:
   - buku
@@ -79,7 +78,7 @@ Penulis|Irene Maria Juli Asuti|
 3. Hidup Rukun Di Sekolah
 4. Hidup Rukun Di Masyarakat
 
-Buku siswa <b>kelas 2 semester 1 Tema 1</b> ini berisi sebagai berikut.
+**Buku siswa** <b>kelas 2 semester 1 Tema 1</b> ini berisi sebagai berikut.
 1. Buku Siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 2. Buku Siswa dilengkapi dengan penjelasan lebih rinci tentang isi dan penggunaan buku sebagaimana dituangkan dalam Buku Guru.
 3. Kegiatan pembelajaran yang ada di Buku Siswa lebih merupakan contoh yang dapat dipilih guru dalam melaksanakan pembelajaran. Guru diharapkan mampu mengembangkan ide-ide kreatif lebih lanjut dengan memanfaatkan alternatif-alternatif kegiatan yang ditawarkan di dalam Buku Guru atau mengembangkan ide-ide pembelajaran sendiri.
