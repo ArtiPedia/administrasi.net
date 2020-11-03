@@ -55,9 +55,9 @@ tags:
 
 Pada satuan pendidikan *sekolah dasar (SD)* saat ini menggunakan **kurikulum 2013** dimana dalam kurikulum tersebut bersifat tematik, artinya tiap mata pelajaran dileburkan ke dalam suatu tema. seperti halnya dalam **buku guru tema bermain dilingkunganku** yang disajikan pada halaman ini.
 
-Penggunaan Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku dapat memberikan gambaran kepada guru untuk mengelola dan mengembangkan kegiatan pembelajaran di kelas dengan mengimplementasikan Kurikulum 2013 untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
+Penggunaan **Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku** dapat memberikan gambaran kepada guru untuk mengelola dan mengembangkan kegiatan pembelajaran di kelas dengan mengimplementasikan Kurikulum 2013 untuk mengembangkan kompetensi siswa dalam ranah pengetahuan, keterampilan, dan sikap secara utuh, dengan memadukan ketiga ranah pengetahuan, keterampilan, dan sikap melalui pendekatan pembelajaran tematik terpadu.
 
-Struktur penulisan Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
+Struktur penulisan **Buku Guru Kelas 2** **Tema 2 Bermain dilingkunganku** ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
 
 ## Buku Guru Kelas 2 Tema 2 Bermain di Lingkunganku
 
