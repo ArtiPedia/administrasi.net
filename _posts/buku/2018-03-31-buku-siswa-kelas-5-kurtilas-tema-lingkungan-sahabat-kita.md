@@ -50,9 +50,9 @@ tags:
 
 [Administrasi.Net](/ "Administrasi.Net") - Buku pelajaran sangatlah penting untuk menunjang kegiatan pembelajaran di kelas, khususnya kelas 5 Sekolah Dasar. Buku yang saat ini digunakan di kelas 5 adalah buku kurikulum 2013 (K13). Seperti halnya **Buku Siswa Kelas 5** Tema 8 dibawah ini:
 
-Penggunaan buku siswa kelas 5 tema lingkungan sahabat kita dapat memberikan gambaran kepada siswa yang dapat membantu dalam belajar di kelas atau dirumah.
+Penggunaan **buku siswa kelas 5 tema lingkungan sahabat kita** dapat memberikan gambaran kepada siswa yang dapat membantu dalam belajar di kelas atau dirumah.
 
-Buku paket kelas 5 terdiri dari buku guru dan buku siswa. Buku tersebut mengacu pada kurikulum terbaru yaitu kurikulum 2013 yang berlaku pada saat ini. 
+**Buku paket kelas 5** terdiri dari **buku guru** dan **buku siswa**. Buku tersebut mengacu pada kurikulum terbaru yaitu kurikulum 2013 yang berlaku pada saat ini. 
 
 
 
