@@ -15,7 +15,7 @@ tags:
 {:toc}
 
 ## Pendahuluan
-**Rencana Pelaksanaan Pembelajaran (<acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym>)** merupakan salah satu penunjang guru dalam pembelajaran. Rencana pelaksanaan pembelajaran menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal, karena dengan adanya <acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym> diharapkan kegiatan pembelajaran lebih terprogram. RPP Kurtilas untuk sekolah dasar dibuat dengan model tematik dengan meleburkan beberapa mata pelajaran dalam suatu tema.
+**Rencana Pelaksanaan Pembelajaran (<acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym>)** merupakan salah satu penunjang guru dalam pembelajaran. Rencana pelaksanaan pembelajaran menjadi prasayarat guru dalam melaksanakan pembelajaran agar lebih optimal, karena dengan adanya <acronym title="Rencana Pelaksanaan Pembelajaran">RPP</acronym> diharapkan kegiatan pembelajaran lebih terprogram. **RPP Kurtilas** untuk sekolah dasar dibuat dengan model tematik dengan meleburkan beberapa mata pelajaran dalam suatu tema.
 
 *[RPP Kelas IV SD Kurikulum 2013 Revisi 2017](/administrasi/silabus-rpp-kelas-iv-sd-kurikulum-2013 "RPP Kelas IV SD Kurikulum 2013 Revisi 2017" )* ini merupakan Rencana pelaksanaan pembelajaran khusus untuk kelas 4 yang terdiri dari beberapa tema.
 
