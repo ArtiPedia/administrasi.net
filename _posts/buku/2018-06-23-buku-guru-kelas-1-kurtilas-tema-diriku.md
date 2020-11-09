@@ -88,5 +88,5 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 
   
 ## Download Buku guru kelas 2 semester 1 Tema 1
-Klik tombol download atau baca
+**Download buku guru kelas 2 tema 1**
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=0B18mXGGKnIqvLW5sbWl5bEJ6cDQ" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/0B18mXGGKnIqvLW5sbWl5bEJ6cDQ/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>

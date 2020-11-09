@@ -56,7 +56,7 @@ Penggunaan **buku siswa kelas 5 tema lingkungan sahabat kita** dapat memberikan 
 
 
 
-Struktur penulisan buku siswa kelas 5 ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
+Struktur penulisan **buku siswa kelas 5** ini memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Cari Tahu, Ayo Belajar. Ayo Berlatih, Ayo Amati, Ayo Lakukan, Ayo Renungkan, Ayo Kerjakan, Ayo Mencoba, Ayo Diskusikan, Ayo Menulis, Ayo Berkreasi, Ayo Bernyanyi yang sesuai dengan pendekatan saintifik.
 
 ## Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita
 
@@ -77,7 +77,7 @@ Penulis|Heny Kusumawati|
 |ISBN|<strong>978-602-427-210-4</strong>|
 
 ## Subtema
-<strong>Buku Siswa</strong> <strong>Kelas 5 Tema 8 Lingkungan Sahabat Kita</strong> terdiri dari 4 subtema antara lain: 
+<strong>Buku Siswa Kelas 5 Tema 8 Lingkungan Sahabat Kita</strong> terdiri dari 4 subtema antara lain: 
 1. Manusia dan Lingkungan
 2. Perubahan Lingkungan
 3. Usaha Pelestarian Lingkungan

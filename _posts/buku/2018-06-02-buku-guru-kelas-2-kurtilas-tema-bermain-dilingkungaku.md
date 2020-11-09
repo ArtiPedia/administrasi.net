@@ -76,7 +76,7 @@ Penulis|Taufina|
 |ISBN|<strong>978-602-427-166-4</strong>|
 
 ## Subtema
-<strong>Buku Guru</strong> <strong>Kelas 2 Tema 2 Bermain di Lingkunganku</strong> terdiri dari 4 subtema antara lain: 
+<strong>Buku Guru Kelas 2 Tema 2 Bermain di Lingkunganku</strong> terdiri dari 4 subtema antara lain: 
 1. <b>Bermain di Lingkungan Rumah</b>
 2. <b>Bermain di Rumah Teman</b>
 3. <b>Bermain di Lingkungan Sekolah</b>
@@ -92,8 +92,8 @@ Penulis|Taufina|
 7. Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.
   
 ## Pertimbangan
-Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
+Buku guru ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
 ## Download Buku Kelas 2 Tema 2
-Unduh Buku Kurikulum 2013 Kelas 2 Tema 2
+**Download Buku Guru Kurikulum 2013 Kelas 2 Tema 2**
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=0B1j4dij_cZkMVzZKTW9kMXVhbWc" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/0B1j4dij_cZkMVzZKTW9kMXVhbWc/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
