@@ -5,7 +5,7 @@ date: 2018-08-27 20:49:09
 title: Download Buku Siswa Kelas 1 Kurikulum 2013 Revisi 2017
 description: Download kumpulan Buku Siswa Kelas 1 SD Revisi 2017, Download buku
   tematik SD Kelas I Kurikulum 2013.
-image: buku-siswa-sd.png
+image: ""
 last_modified_date: 2020-11-10T13:28:43.486Z
 tags:
   - buku
