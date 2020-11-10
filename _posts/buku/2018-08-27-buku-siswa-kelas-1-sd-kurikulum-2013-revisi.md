@@ -1,17 +1,28 @@
 ---
-title: "Buku Siswa Kelas 1 Kurikulum 2013 Revisi 2017"
-date: "2018-08-27 20:49:09"
-description: Halaman ini berisi kumpulan Buku Siswa Kelas 1 SD Revisi 2017, Download buku tematik SD Kelas I Kurikulum 2013.
-author: artipedia
-tags: [buku,pendidikan,sd,siswa,buku-siswa,revisi-2017,kelas-1,tematik,download]
+author: wahyu
 published: true
+date: 2018-08-27 20:49:09
+title: Download Buku Siswa Kelas 1 Kurikulum 2013 Revisi 2017
+description: Download kumpulan Buku Siswa Kelas 1 SD Revisi 2017, Download buku
+  tematik SD Kelas I Kurikulum 2013.
 image: buku-siswa-sd.png
+last_modified_date: 2020-11-10T13:28:43.486Z
+tags:
+  - buku
+  - pendidikan
+  - sd
+  - siswa
+  - buku-siswa
+  - revisi-2017
+  - kelas-1
+  - tematik
+  - download
 ---
 * TOC
 {:toc}
 
 ## Pendahuluan
-Buku Siswa sangat diperlukan untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini digunakan telah diganti menjadi **kurikulum 2013**. 
+**Buku Siswa** sangat diperlukan untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini digunakan telah diganti menjadi **kurikulum 2013**. 
 
 Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana BSE merupakan **buku teks pelajaran** yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
 
