@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Buku Tematik Kelas 2 Tunagrahita SDLB Kurikulum 2013
-description: Download atau baca online buku tematik pendidikan khusus kelas 2
-  kurikulum 2013. Buku Guru dan Buku Siswa khusus Tunagrahita
+title: Buku Guru dan Siswa Kelas 2 Tunagrahita SDLB Kurikulum 2013
+description: Download buku tematik buku guru dan buku siswa kelas 2 kurikulum
+  2013 bagi tunagrahita. Buku Guru dan Buku Siswa khusus Tunagrahita
+image: /img/buku-guru-siswa-kelas-2-tunagrahita.png
 last_modified_date: 2020-07-14T02:59:57.117Z
 author: wahyu
 tags:
