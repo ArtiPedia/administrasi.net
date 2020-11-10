@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Buku Siswa Kelas 1 Tema 1 Diriku Tunagrahita
-description: Buku Siswa Kelas 1 Tema 1 Diriku Kurikulum 2013, buku paket
-  tematik yang diperuntukkan bagi guru kelas 1 tunagrahita.
+description: Buku Siswa Kelas 1 Tema 1 Diriku Kurikulum 2013, buku paket tematik
+  yang diperuntukkan bagi guru kelas 1 tunagrahita.
 image: /img/buku-siswa-kelas-1-tema-1-diriku.png
 last_modified_date: 2020-11-10T01:59:57.632Z
 tags:
@@ -35,7 +35,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **kelas 1 C (Tunagrahita)*
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bse/buku-guru-kelas-1-tema-1-diriku-tunagrahita" title="Buku Guru Kelas 1 Tema 1 Diriku SDLB Tunagrahita"><strong>Buku Guru Kelas 1 Tema 1 Diriku SDLB Tunagrahita</strong></a>|
+|Mata Pelajaran|<a href="/bse/buku-siswa-kelas-1-tema-1-diriku-tunagrahita" title="Buku siswa Kelas 1 Tema 1 Diriku SDLB Tunagrahita"><strong>Buku siswa Kelas 1 Tema 1 Diriku SDLB Tunagrahita</strong></a>|
 |Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SDLB|
