@@ -53,4 +53,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
   
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 1 Tema 1 Diriku**:
-<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=13MD7VdAA-Y2lR-eZw9j3BiEJiF1xJr8q" rel="nofollow" target="_blank" title="Download">Download</a></p>
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1zz3AACehdmKz6grfRs-P3U0-imWGV0B3" rel="nofollow" target="_blank" title="Download">Download</a></p>
