@@ -31,7 +31,7 @@ Bagi anda guru yang mengajar di **kelas 1 C (Tunagrahita)** tentunya buku ini ak
 
 {% include ads-artikel.html %}
 
-## Buku Guru Kelas 1 Tema 1 SDLB Tunagrahita  
+## Buku Guru Kelas 1 Tema 3 SDLB Tunagrahita  
 
 |Uraian|Keterangan|
 | --- | --- |
@@ -53,4 +53,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
   
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 1 Tema 3**:
-<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=13MD7VdAA-Y2lR-eZw9j3BiEJiF1xJr8q" rel="nofollow" target="_blank" title="Download">Download</a></p>
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1nJlid7iofP3XhpSPN23g3uoBxhEipHdo" rel="nofollow" target="_blank" title="Download">Download</a></p>
