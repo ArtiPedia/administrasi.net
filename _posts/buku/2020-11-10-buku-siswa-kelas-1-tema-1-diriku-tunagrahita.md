@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Buku Siswa Kelas 1 Tema 1 Diriku Tunagrahita
-description: Buku Guru Kelas 1 Tema 1 Diriku Kurikulum 2013, buku paket
+description: Buku Siswa Kelas 1 Tema 1 Diriku Kurikulum 2013, buku paket
   tematik yang diperuntukkan bagi guru kelas 1 tunagrahita.
-image: /img/buku-guru-kelas-1-tunagrahita-tema-1-kegiatanku.png
+image: /img/buku-siswa-kelas-1-tema-1-diriku.png
 last_modified_date: 2020-11-10T01:59:57.632Z
 tags:
   - buku
@@ -21,17 +21,17 @@ tags:
 * TOC
 {:toc}
 
-**Buku guru Kelas 1 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> Tema 1 Diriku** ini diperuntukkan bagi guru sebagai penunjang pembelajaran.
+**Buku siswa Kelas 1 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> Tema 1 Diriku** ini diperuntukkan bagi siswa sebagai penunjang pembelajaran.
 
 [Anak tunagrahita](/teori/tunagrahita) memiliki kecerdasan di bawah rata-rata anak normal pada umumnya, sehingga keberadaan **buku paket tematik** ini sangatlah berguna bagi guru sebagai panduan dalam menyusun program pembelajaran atau sebagai *panduan penggunaan buku siswa*.
 
 Materi pembelajaran bagi anak tunagrahita dalam **Buku Kelas 1 Tema 1 Diriku** ini berbeda dengan materi pembelajaran di kelas sd umum, dimana bobot materinya lebih rendah disesuaikan dengan karakteristik anak tunagrahita.
 
-Bagi anda guru yang mengajar di **kelas 1 C (Tunagrahita)** tentunya buku ini akan bermanfaat bagi anda.
+Bagi anda guru yang mengajar atau siswa yang duduk di **kelas 1 C (Tunagrahita)** tentunya buku ini akan bermanfaat bagi anda.
 
 {% include ads-artikel.html %}
 
-## Buku Guru Kelas 1 Tema 1 SDLB Tunagrahita  
+## Buku Siswa Kelas 1 Tema 1 SDLB Tunagrahita  
 
 |Uraian|Keterangan|
 | --- | --- |
@@ -47,7 +47,7 @@ Bagi anda guru yang mengajar di **kelas 1 C (Tunagrahita)** tentunya buku ini ak
 |ISBN|<strong>N/A</strong>|
 
 ## Pertimbangan
-**Buku Tunagrahita Kelas 1 Tema 1** ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
+**Buku Siswa Tunagrahita Kelas 1 Tema 1** ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
