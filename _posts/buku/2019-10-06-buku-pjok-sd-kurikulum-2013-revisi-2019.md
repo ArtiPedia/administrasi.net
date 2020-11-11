@@ -4,6 +4,7 @@ description: Download Buku Guru dan siswa mata pelajaran PJOK untuk satuan
   pendidikan sekolah dasar (SD) kurikulum 2013 revisi 2019. Buku paket revisi
   terbaru semua kelas.
 date: 2019-10-06T04:49:09.000Z
+image: /img/buku-pjok-sd.png
 last_modified_date: 2020-11-03T01:35:38.504Z
 tags:
   - buku
