@@ -34,7 +34,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **kelas 1 C (Tunagrahita)*
 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bse/buku-siswa-kelas-1-tema-1-diriku-tunagrahita" title="Buku siswa Kelas 1 Tema 2 Kegemaranku SDLB Tunagrahita"><strong>Buku siswa Kelas 1 Tema 2 Kegemaranku SDLB Tunagrahita</strong></a>|
+|Mata Pelajaran|<a href="/bse/buku-siswa-kelas-1-tema-2-kegemaranku-tunagrahita" title="Buku siswa Kelas 1 Tema 2 Kegemaranku SDLB Tunagrahita"><strong>Buku siswa Kelas 1 Tema 2 Kegemaranku SDLB Tunagrahita</strong></a>|
 |Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SDLB|
