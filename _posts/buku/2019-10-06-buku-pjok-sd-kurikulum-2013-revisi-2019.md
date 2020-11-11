@@ -68,7 +68,8 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
 **Buku Guru Mata Pelajaran PJOK** **Revisi 2019** dapat anda unduh melalui tombol dibawah:
 1. Buku Guru PJOK SD Kelas 1 Revisi 2019 (Belum Tersedia)
 2. Buku Guru PJOK SD Kelas 2 Revisi 2019 (Belum Tersedia)
-3. Buku Guru PJOK SD Kelas 3 Revisi 2019 (Belum Tersedia)
+3. Buku Guru PJOK SD Kelas 3 Revisi 2019 
+<a class="button download clear" href="https://docs.google.com/uc?export=download&id=1ce5XoxqhBurbEYOD61SxaQY_WM0H7Mti" rel="nofollow" target="_blank" title="Download">Download</a> <a class="button demo open-dialog clear" href="https://drive.google.com/file/d/1ce5XoxqhBurbEYOD61SxaQY_WM0H7Mti/preview" Title="Baca Online" rel="nofollow">Baca Online</a>
 4. Buku Guru PJOK SD Kelas 4 Revisi 2019 
 <a class="button download clear" href="https://docs.google.com/uc?export=download&id=1Q9UZ6qj9v-MtQf7C9gLcd47De8tzRUaC" rel="nofollow" target="_blank" title="Download">Download</a> <a class="button demo open-dialog clear" href="https://drive.google.com/file/d/1Q9UZ6qj9v-MtQf7C9gLcd47De8tzRUaC/preview" Title="Baca Online" rel="nofollow">Baca Online</a>
 5. Buku Guru PJOK SD Kelas 5 Revisi 2019 <a class="button download clear" href="https://docs.google.com/uc?export=download&id=1dUH1bLWFkCuZyZN-pzqyajtjj8eCx_Yc" rel="nofollow" target="_blank" title="Download">Download</a> <a class="button demo open-dialog clear" href="https://drive.google.com/file/d/1dUH1bLWFkCuZyZN-pzqyajtjj8eCx_Yc/preview" Title="Baca Online" rel="nofollow">Baca Online</a>
