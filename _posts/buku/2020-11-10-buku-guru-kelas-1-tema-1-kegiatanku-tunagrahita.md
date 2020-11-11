@@ -39,7 +39,7 @@ Bagi anda guru yang mengajar di **kelas 1 C (Tunagrahita)** tentunya buku ini ak
 |Jenis|<a href="/bse" title="Buku Guru" target="_blank">Buku Guru</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SDLB|
-|Kelas|3 (Tiga)|
+|Kelas|1 (Satu)|
 |Penulis|N/A|
 |Penerbit|Pusat Kurikulum dan Perbukuan, Balitbang, Kemdikbud|
 |Jumlah Halaman|N/A|
