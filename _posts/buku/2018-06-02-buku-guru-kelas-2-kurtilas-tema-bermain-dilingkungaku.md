@@ -2,6 +2,7 @@
 title: Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku Kurikulum 2013
 description: Download Buku guru kelas 2 tema 2 Bermain dilingkunganku kurikulum
   2013 revisi 2017 penunjang dalam melaksanakan pembelajaran di kelas.
+image: /img/buku-guru-kelas-2-tema-2-bermain-dilingkunganku-kurikulum-2013.png
 last_modified_date: 2020-05-15T09:54:14.180Z
 tags:
   - buku
