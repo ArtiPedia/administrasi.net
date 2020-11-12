@@ -29,7 +29,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **kelas 1 C (Tunagrahita)*
 
 {% include ads-artikel.html %}
 
-## Buku Siswa Kelas 1 Tema 1 SDLB Tunagrahita  
+## Buku Siswa Kelas 1 Tema 2 SDLB Tunagrahita  
 
 |Uraian|Keterangan|
 | --- | --- |
