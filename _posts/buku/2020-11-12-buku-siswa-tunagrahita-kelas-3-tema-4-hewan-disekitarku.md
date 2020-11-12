@@ -3,7 +3,7 @@ layout: post
 title: Buku Siswa Tunagrahita Kelas 3 Tema 4 Hewan disekitarku
 description: Buku Siswa Tunagrahita Kelas 3 Tema 4 Kurikulum 2013, Download buku
   kelas 3 tema 4 Hewan di Sekitarku bagi tunagrahita
-image: /img/buku-siswa-tunagrahita-kelas-1-tema-4-hewan-disekitarku.png
+image: /img/buku-siswa-tunagrahita-kelas-3-tema-4-hewan-disekitarku.png
 last_modified_date: 2020-11-11T03:47:20.398Z
 tags:
   - buku
