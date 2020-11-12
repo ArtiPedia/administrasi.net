@@ -3,7 +3,7 @@ layout: post
 title: Buku Siswa Tunagrahita Kelas 3 Tema 5 Tanaman Buah Disekitarku
 description: Buku Siswa Tunagrahita Kelas 3 Tema 5 Kurikulum 2013, Download buku
   kelas 3 tema 5 Tanaman Buah Disekitarku bagi tunagrahita
-image: /img/buku-siswa-tunagrahita-kelas-3-tema-5.png
+image: /img/buku-siswa-tunagrahita-kelas-3-tema-5-tanaman-buah-disekitarku.png
 last_modified_date: 2020-11-11T03:47:20.398Z
 tags:
   - buku
