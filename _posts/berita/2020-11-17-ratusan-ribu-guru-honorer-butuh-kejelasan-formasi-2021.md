@@ -4,6 +4,12 @@ title: Ratusan Ribu Guru Honorer Butuh Kejelasan Formasi 2021
 description: Ratusan Ribu Guru Honorer Butuh Kejelasan Formasi 2021
 image: /img/raker-dengan-mendikbud-komisi-x.jpg
 last_modified_date: 2020-11-17T03:57:58.690Z
+sumber: https://www.tribunnews.com/nasional/2020/11/12/ketua-komisi-x-dpr-ratusan-ribu-guru-honorer-butuh-kejelasan-formasi-2021?page=2
+tags:
+  - berita
+  - cpns
+  - guru
+  - honorer
 ---
 Ratusan ribu guru honorer masih menunggu kejelasan nasib untuk diangkat sebagai Aparatur Sipil Negara (ASN).
 
@@ -48,7 +54,4 @@ Huda melanjutkan jika telah diketahui peta kebutuhan dan nama-nama guru honorer 
 Menurutnya hal ini penting karena seleksi PPPK tidak jauh berbeda dengan seleksi CPNS yang membutuhkan kelengkapan administrasi dari calon pelamar.
 
 “Jadi saat ada pengumuman resmi waktu rekruitmen mereka tinggal memasukan berkas saja. Kami berharap kesempatan ini dimanfaatkan sebaik-baiknya oleh para guru honorer sehingga mereka segera mendapatkan penghargaan sepantasnya,” pungkasnya.
-
-Artikel ini telah tayang di Tribunnews.com dengan judul Ketua Komisi X DPR: Ratusan Ribu Guru Honorer Butuh Kejelasan Formasi 2021, https://www.tribunnews.com/nasional/2020/11/12/ketua-komisi-x-dpr-ratusan-ribu-guru-honorer-butuh-kejelasan-formasi-2021?page=2.
-
-
+
