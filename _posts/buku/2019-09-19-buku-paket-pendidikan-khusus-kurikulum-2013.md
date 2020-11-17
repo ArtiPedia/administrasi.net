@@ -19,52 +19,61 @@ tags:
 
 [Administrasi.Net](/ "Administrasi.Net") - Buku yang dibagikan kali ini adalah Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku guru sampai buku siswa yang dapat dijadikan sebagai penunjang pembelajaran di kelas.
 
-Seperti halnya pendidikan umum, dalam mengelola pendidikan khusus diperlukan buku pembelajaran yang sifatnya tematik bagi **satuan pendidikan SDLB**, mata pelajaran bagi satuan pendidikan SMPLB dan SMALB kecuali Tunagrahita, yang mulai dari **SD, SMP, dan SMA** tetap **tematik**.
+Seperti halnya pendidikan umum, dalam mengelola pendidikan khusus diperlukan buku pembelajaran yang sifatnya tematik bagi **satuan pendidikan SDLB**, mata pelajaran bagi satuan pendidikan SMPLB dan SMALB kecuali Tunagrahita, yang mulai dari **SDLB, SMPLB, dan SMALB** tetap **tematik**.
 
 Pada kesempatan kali ini, buku yang dibagikan kali ini masih belum semua, oleh karena itu kami mohon kepada pembaca, bila ingin menambahkan buku paket yang masih belum tersedia di ArtiPedia dapat dilakukan dengan menekan tombol edit dibawah artikel ini.
 
 Daftar Buku Pendidikan Khusus dan Layanan Khusus
 ## Buku Tunagrahita
 Berikut ini buku paket untuk jenis kekhususan [Tunagrahita](/teori/tunagrahita "Apa itu Tunagrahita"):
+
+### Kelas 1 Tunagrahita
+1. Tema 1 : [Download](https://docs.google.com/uc?export=download&id=1zz3AACehdmKz6grfRs-P3U0-imWGV0B3)
+2. Tema 2 : [Download](https://docs.google.com/uc?export=download&id=1HCvsWvFk-753H757GyZjlMQNckA7_y7s)
+3. Tema 3 : [Download](https://docs.google.com/uc?export=download&id=1nJlid7iofP3XhpSPN23g3uoBxhEipHdo)
+
+### Kelas 2 Tunagrahita
+1. Tema 1 : [Download](https://docs.google.com/uc?export=download&id=1j-YF2Cppy_hMdEnZbvEE3BL3Oti0Stz7)
+2. Tema 2 : Belum Tersedia
+3. Tema 3 : [Download](https://docs.google.com/uc?export=download&id=17SxVJmjSSLVxr0M14H2-uD0osVdAVuB7)
+4. Tema 4 : [Download](https://docs.google.com/uc?export=download&id=1BE2X5F79t-FlIn6qQDY7S3YyyjuXQD06)
+5. Tema 5 : [Download](https://docs.google.com/uc?export=download&id=1gYQ-cuSdJS1nu2fJUZMuwj9z_xN2EUfg)
+6. Tema 6 : Belum Tersedia
+7. Tema 7 : [Download](https://docs.google.com/uc?export=download&id=1-D64Mvei8WSrz1TSmxLhMa_D30qx_qiw)
+8. Tema 8 : [Download](https://docs.google.com/uc?export=download&id=1mQKePP1zPsgR46QLejHFUZaHmngGTq16)
+
 ### Kelas 3 Tunagrahita
 Buku paket tematik untuk satuan pendidikan **SDLB Tunagrahita Kurikulum 2013**
-1. Tema 1 Buku Guru [Download](https://docs.google.com/uc?export=download&id=1A6-WDvF82xlwOTH9mEMiMz0b5U_s6T6z)
-2. Tema 1 Buku Siswa [Download](docs.google.com/uc?export=download&id=1bX01rrz2Fkurf_FKvYSRfYD0GO3YRRpj)
-3. Tema 2 Buku Guru [Download](https://docs.google.com/uc?export=download&id=1m30LU_VN3tf621-qUWjg-GKbkwn7SLko)
-4. Tema 2 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1BU7e7ITo-RvibfXQbTaV_EEevH5rmFgb)
-5. Tema 3 Buku Guru [Download](https://docs.google.com/uc?export=download&id=1NBpfjFt3j7T1Of1DqOQ5DekNPOO9y7bL)
-6. Tema 3 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1Zk_tUKPNkVUxMZ2zJMkpPhAhMM28yIpA)
-7. Tema 4 Buku Guru Belum Tersedia
-8. Tema 4 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1QTmSbezbwrATw7oL6OphsQHpbQcEkoyr)
-9. Tema 5 Buku Guru   [Download](https://docs.google.com/uc?export=download&id=1VL-IKgSGxZX05Rt26ZgqpUpLjMxeDUT9)
-10. Tema 5 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1nA888MdBl5IMbuYtiY6gLfuJF2usxfTM)
-11. Tema 6 Buku Guru  [Download](https://docs.google.com/uc?export=download&id=124NfKbyMLXmhANdHF2ajqGXKAQsVY9k2)
-12. Tema 6 Buku Siswa [Download](https://docs.google.com/uc?export=download&id=1XqwNoJrHtPMvetzUWR7x1VOCvpjDKtID)
-13. Tema 7 Buku Guru  [Download](https://docs.google.com/uc?export=download&id=1VNDkDCfKvq3BJO992Ioqk5K6WbiNcjJe)
-14. Tema 7 Buku Siswa  [Download](https://docs.google.com/uc?export=download&id=1NVoN_ZImW2b8Ob2ZAfb-zbZbDUR_2I6p)
-15. Tema 8 Buku Guru   [Download](https://docs.google.com/uc?export=download&id=1YiAzFMlDEA2hbntijxr-9DiJOVheJWK8)
-16. Tema 8 Buku Siswa  [Download](https://docs.google.com/uc?export=download&id=1zB0HpsqJGa2H8LGixqnjldu2uazYhVCG)
+1. Tema 1 :<a class="XqQF9c" href="https://drive.google.com/file/d/1C-XqME0xpklYfN7_YkzTKkTbYurgJjiC/view?usp=sharing" target="_blank"> Download</a>
+2. Tema 2 : <a class="XqQF9c" href="https://drive.google.com/file/d/173E204wOAEExLq2861XqYsDSDRgmEGhY/view?usp=sharing" target="_blank">Download</a>
+3. Tema 3 : <a class="XqQF9c" href="https://drive.google.com/file/d/19fMb7lwoSQGe8akf7r1MTrigOxqPMcl_/view?usp=sharing" target="_blank">Download</a>
+4. Tema 4 : <a class="XqQF9c" href="https://drive.google.com/file/d/1IzCgXf_5dHbPRruf3shq3-P_QHEqAYCp/view?usp=sharing" target="_blank">Download</a>
+5. Tema 5 : <a class="XqQF9c" href="https://drive.google.com/file/d/1b1WMeV2JUyPZZS4D1WRIy_HOQY0mYQpH/view?usp=sharing" target="_blank">Download</a>
+6. Tema 6 : <a class="XqQF9c" href="https://drive.google.com/file/d/1JtkZeI-6ktq4nE4f020ID-NVPJjyjveF/view?usp=sharing" target="_blank">Download</a>
+7. Tema 7 : <a class="XqQF9c" href="https://drive.google.com/file/d/1VMImpGgsPuoua8i4hHah8wEb_E3chM0J/view?usp=sharing" target="_blank">Download</a>
+8. Tema 8 : <a class="XqQF9c" href="https://drive.google.com/file/d/1FUVLw6QJirJHlXKjZ07nNfmLHgiB2YIw/view?usp=sharing" target="_blank">Download</a>
 
+### Kelas 4 Tunagrahita
+1. Tema 1 : [Download](https://drive.google.com/file/d/1NH5e2vegfXzy4EBgOaWSULBgHj3BFqTa/view?usp=sharing)
+2. Tema 2 : [Download](https://drive.google.com/file/d/1SSH-Q5OjnfLCZcFBwf_UDldq8pOqi6tU/view?usp=sharing)
+3. Tema 3 : [Download](https://drive.google.com/file/d/1uBM7nrXi3M9HOdIyLbhSC4IjG1Wyvh34/view?usp=sharing)
 
-### Kelas 7 Tunagrahita
-1. Tema 1 [Download](https://docs.google.com/uc?export=download&id=1fU7upTazN0i4-ZF6vlfBOB_sPILpS5gV)
-2. Tema 2 [Download](https://docs.google.com/uc?export=download&id=1km9sRE6fEwD3CdMAKUwLAkTgjmmHNhB3)
-3. Tema 3 [Download](https://docs.google.com/uc?export=download&id=1l5Wj2Cqvthn8MiwRGLsnEINdZYC9M9Pq)
+### Kelas 5 Tunagrahita
+1. Tema 1 : [Download](https://drive.google.com/file/d/171nlo5sPHEg2kN0YIMkFbkwa1xXbFIA_/view?usp=sharing)
+2. Tema 2 : [Download](https://drive.google.com/file/d/1KwCKKbawK8LPNJyzEOBmLKDGSofTynbO/view?usp=sharing)
+3. Tema 3 : [Download](https://drive.google.com/file/d/1A2C37XaZNWZZNCF_QRogAsgn0o81jZlG/view?usp=sharing)
+4. Tema 4 : [Download](https://drive.google.com/file/d/1kPPWWtDuayEBh0YI4sukgOkviNwjwrmC/view?usp=sharing)
+5. Tema 5 : [Download](https://drive.google.com/file/d/1ajeXwNCYt-1WMZahgaiTO8pKAt_VoK5r/view?usp=sharing)
+6. Tema 6 : [Download](https://drive.google.com/file/d/1Mtv9HMmxMbOh1XBf8dWj5qiZaE0NMJv7/view?usp=sharing)
+7. Tema 7 : Belum Tersedia
+8. Tema 8 : [Download](https://drive.google.com/file/d/1X649l3CbtrDaRQ7ojmpJNCVPCw38tkcX/view?usp=sharing)
 
-### Kelas 8 Tunagrahita
-1. Tema 1 [Download](https://docs.google.com/uc?export=download&id=0B9q6QvzAgXEoY2RwWFA5SF9NU28)
-2. Tema 2 [Download](https://docs.google.com/uc?export=download&id=0B9q6QvzAgXEoVzZpWmtxQzlHZ0E)
-3. Tema 3 [Download](https://docs.google.com/uc?export=download&id=0B9q6QvzAgXEodC1IOHluRUtHQlk)
-4. Tema 4 [Download](https://docs.google.com/uc?export=download&id=0B9q6QvzAgXEoUG9ZcG1UbjF4OWc)
-5. Tema 5 [Download](https://docs.google.com/uc?export=download&id=0B9q6QvzAgXEocmJyQ29WZjQtbEE)
-6. Tema 6 [Download](https://docs.google.com/uc?export=download&id=0B9q6QvzAgXEoTml4TVlES1hIeVE)
-7. Tema 7 [Download](https://docs.google.com/uc?export=download&id=0B9q6QvzAgXEoZlo1emZjRlo5REU)
-8. Tema 8  [Download](https://docs.google.com/uc?export=download&id=0B9q6QvzAgXEoWEVEQjRWTEw1Tms)
+### Kelas 6 Tunagrahita
+1. Tema 1 : [Download](https://drive.google.com/file/d/19RvRK45Rt6oRBNUAXbdXvhy3Hb_758Nv/view?usp=sharing)
+2. Tema 2 : [Download](https://drive.google.com/file/d/1S7x_Ps7aUT64X91qGqrZLRjWTZWB8u3H/view?usp=sharing)
+3. Tema 3 : [Download](https://drive.google.com/file/d/1PSq-hvZYgwG4dujTax1dfzqC0B3Hd6ZG/view?usp=sharing)
+4. Tema 4 : [Download](https://drive.google.com/file/d/1jqzOhxUyTNqWFRGkh4QIpxR1OOaRl3Mt/view?usp=sharing)
+5. Tema 5 : [Download](https://drive.google.com/file/d/1XUfjlnc_iGggP3HYiaI5yBWfViuEZSFV/view?usp=sharing)
+6. Tema 6 : [Download](https://drive.google.com/file/d/11mspakjjwoyibBlXxh9B9HWyfGdLSWlB/view?usp=sharing)
+7. Tema 7 : [Download](https://drive.google.com/file/d/1CwCqZcBfVNog-Huu8O5LAVndTDpsv0Xp/view?usp=sharing)
 
-## Buku Tunarungu
-Berikut ini buku paket untuk jenis kekhususan Tunarungu:
-### Kelas 4 Tunarungu
-1. Buku Guru Tema 1-4 [Download](https://docs.google.com/uc?export=download&id=1CiKAIWUl1p3M6905NFD1xeJ_-GwOs32I)
-2. Buku Siswa Tema 1-4 [Download](https://docs.google.com/uc?export=download&id=1of23oPE4tFvIY2pqAQvlCvbYr69tN6Fd)
-
-<div class="note catatan">Terdapat beberapa file Rar yang di protek dengan Password: www.infokmoe.id</div>
