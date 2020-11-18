@@ -77,3 +77,18 @@ Buku paket tematik untuk satuan pendidikan **SDLB Tunagrahita Kurikulum 2013**
 6. Tema 6 : [Download](https://drive.google.com/file/d/11mspakjjwoyibBlXxh9B9HWyfGdLSWlB/view?usp=sharing)
 7. Tema 7 : [Download](https://drive.google.com/file/d/1CwCqZcBfVNog-Huu8O5LAVndTDpsv0Xp/view?usp=sharing)
 
+### Kelas 7 Tunagrahita
+1. Tema 1 : Belum Tersedia
+2. Tema 2 : [Download](https://drive.google.com/file/d/11PprSLlaKynTFLKsn12T8KBgCrvvKTVM/view?usp=sharing)
+3. Tema 3 : [Download](https://drive.google.com/file/d/1Ez40mYHJiYpNAZHYsufwJmQSGdJGYAxE/view?usp=sharing)
+
+
+### Kelas 8 Tunagrahita
+1. Tema 1 : [Download](https://drive.google.com/file/d/1IxcKaxazB0slFMS_QsYmH9NY5MFqG2L-/view?usp=sharing)
+2. Tema 2 : [Download](https://drive.google.com/file/d/1mSiUUuF-c5LApwUtfpoFitiKtzxlj4wa/view?usp=sharing)
+3. Tema 3 : [Download](https://drive.google.com/file/d/12xl2bWjPAUjZ8MBi9x5AYi-Tn2xTcsEV/view?usp=sharing)
+4. Tema 4 : [Download](https://drive.google.com/file/d/1O3Q6vOIHGAXVwjzDIqN9CevNVkiOLAbg/view?usp=sharing)
+5. Tema 5 : [Download](https://drive.google.com/file/d/1dCQlP_a-WVu8fsBf8_J3Cq6O17md5lnc/view?usp=sharing)
+6. Tema 6 : [Download](https://drive.google.com/file/d/1-tyd3UnvkcXLVyoeIWXziin94QLPwBqF/view?usp=sharing)
+7. Tema 7 : [Download](https://drive.google.com/file/d/13s0o4KBkI2VnmzLVdjvjvU3skFGmtkZT/view?usp=sharing)
+8. Tema 8 : [Download](https://drive.google.com/file/d/1JEFWfW2BIzH5QKb5BAFQ0TxvHI58K7gI/view?usp=sharing)
