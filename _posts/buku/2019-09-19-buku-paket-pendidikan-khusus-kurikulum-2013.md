@@ -43,7 +43,6 @@ Berikut ini buku paket untuk jenis kekhususan [Tunagrahita](/teori/tunagrahita "
 8. Tema 8 : [Download](https://docs.google.com/uc?export=download&id=1mQKePP1zPsgR46QLejHFUZaHmngGTq16)
 
 ### Kelas 3 Tunagrahita
-Buku paket tematik untuk satuan pendidikan **SDLB Tunagrahita Kurikulum 2013**
 1. Tema 1 :<a class="XqQF9c" href="https://drive.google.com/file/d/1C-XqME0xpklYfN7_YkzTKkTbYurgJjiC/view?usp=sharing" target="_blank"> Download</a>
 2. Tema 2 : <a class="XqQF9c" href="https://drive.google.com/file/d/173E204wOAEExLq2861XqYsDSDRgmEGhY/view?usp=sharing" target="_blank">Download</a>
 3. Tema 3 : <a class="XqQF9c" href="https://drive.google.com/file/d/19fMb7lwoSQGe8akf7r1MTrigOxqPMcl_/view?usp=sharing" target="_blank">Download</a>
@@ -82,7 +81,6 @@ Buku paket tematik untuk satuan pendidikan **SDLB Tunagrahita Kurikulum 2013**
 2. Tema 2 : [Download](https://drive.google.com/file/d/11PprSLlaKynTFLKsn12T8KBgCrvvKTVM/view?usp=sharing)
 3. Tema 3 : [Download](https://drive.google.com/file/d/1Ez40mYHJiYpNAZHYsufwJmQSGdJGYAxE/view?usp=sharing)
 
-
 ### Kelas 8 Tunagrahita
 1. Tema 1 : [Download](https://drive.google.com/file/d/1IxcKaxazB0slFMS_QsYmH9NY5MFqG2L-/view?usp=sharing)
 2. Tema 2 : [Download](https://drive.google.com/file/d/1mSiUUuF-c5LApwUtfpoFitiKtzxlj4wa/view?usp=sharing)
@@ -92,3 +90,40 @@ Buku paket tematik untuk satuan pendidikan **SDLB Tunagrahita Kurikulum 2013**
 6. Tema 6 : [Download](https://drive.google.com/file/d/1-tyd3UnvkcXLVyoeIWXziin94QLPwBqF/view?usp=sharing)
 7. Tema 7 : [Download](https://drive.google.com/file/d/13s0o4KBkI2VnmzLVdjvjvU3skFGmtkZT/view?usp=sharing)
 8. Tema 8 : [Download](https://drive.google.com/file/d/1JEFWfW2BIzH5QKb5BAFQ0TxvHI58K7gI/view?usp=sharing)
+
+### Kelas 9 Tunagrahita
+1. Tema 1 : <a  href="https://drive.google.com/file/d/1MSdkmtIphKPnXDfWK_XyMdSSm3PkLWm4/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+2. Tema 2 : <a  href="https://drive.google.com/file/d/1ST7eD1VsrOHMkfl8v8EsddJdD1BZXsm_/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+3. Tema 3 :<a  href="https://drive.google.com/file/d/1TQYCD2GvAnzTXE95S-8fDSKimIN3SK1V/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita"> Download</a>
+4. Tema 4 : <a  href="https://drive.google.com/file/d/16pG0VQcr4ft5q4MdJtyfo1du1Go6eZl2/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+5. Tema 5 : <a  href="https://drive.google.com/file/d/1dnKd7qp-BIQDVpxn6V0bssyHxM3w4Ykt/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+6. Tema 6 :<a  href="https://drive.google.com/file/d/18eKjPguK_gpsRdAA3YQOS6wABIvVeeoD/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita"> Download</a>
+7. Tema 7 : <a  href="https://drive.google.com/file/d/1bfpWXWdoFP-wl0Ia7rPuLUw_PV653FFw/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+
+### Kelas 10 Tunagrahita
+1. Tema 1 : <a  href="https://drive.google.com/file/d/1dtOD16zkQV7cNob9mtsCvUH9bPqDyR7Y/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+2. Tema 2 : <a  href="https://drive.google.com/file/d/19Vp6araAqeRuQXucH8MrxcP7fxt8_usP/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+3. Tema 3 : <a  href="https://drive.google.com/file/d/100jo2wOsgASc6Jj4iAesyt9QqU5anQNp/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+4. Tema 4 : <a  href="https://drive.google.com/file/d/1me0Ys7k4H8eGv4s02NIU5wjIqg4yNnL0/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+5. Tema 5 : <a  href="https://drive.google.com/file/d/16PzKMoQt0RfVjv50f9VXNZPDWRATLxpw/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+6. Tema 6 : <a  href="https://drive.google.com/file/d/1oM_tc8QZPZt54iw4ad3ucGn7FvThHg14/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+7. Tema 7 : <a  href="https://drive.google.com/file/d/1uGH-bbwjiI2XuCxLrj5jwg9agVwqEzvT/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+8. Tema 8 : <a  href="https://drive.google.com/file/d/1D0Yx0wfQ_Kw-1-sWyDZY9oYp3mFsiVoQ/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+9. Tema 9 : <a  href="https://drive.google.com/file/d/1dNrBM8pfJfM7nXPoeiFkC_0pECNKe-Fs/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+10. Tema 10 : <a  href="https://drive.google.com/file/d/1kpemaJIuwkHRiySbOi4AUTg2qV3zPaH-/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+
+### Kelas 11 Tunagrahita
+1. Tema 1 : <a  href="https://drive.google.com/file/d/1L036puwWemahl9XlpsRU8fByPoy_mGGz/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+2. Tema 2 : <a  href="https://drive.google.com/file/d/1zOKq09MkEJJNGO_N5GszicVO3bRDcvJe/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+3. Tema 3 : <a  href="https://drive.google.com/file/d/1R1i5_5I-vcay01iB7zhd-Cd7NaKm3eR3/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+4. Tema 4 : <a  href="https://drive.google.com/file/d/1jDK6HKS9zRXzGYTlfMMNA14W7uGNhe5e/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+5. Tema 5 : <a  href="https://drive.google.com/file/d/1w1r5uz7HnaFABNDkvPyac4qy_dz2Rk1m/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+6. Tema 6 : <a  href="https://drive.google.com/file/d/1X2auD33wOx4HT1Ssc0JnenzWf2hvTnh8/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+7. Tema 7 : <a  href="https://drive.google.com/file/d/1EJrYNLWBUehlSTOvA0yCRuBVAZR0oMmz/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+8. Tema 8 : <a  href="https://drive.google.com/file/d/1b2Kh6cRLD0gMT6ctmVlmByjVae9JHknw/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+9. Tema 9 : <a  href="https://drive.google.com/file/d/1J5rjCozXcL7qiwkFZenAoJMS3JrNqvu1/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+10. Tema 10 : <a  href="https://drive.google.com/file/d/1QIUlnVKS9jHtwuO8_1Cx4dlwfijNJt30/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
+
+
+## Buku Tunarungu
+Berikut ini buku paket untuk jenis kekhususan **Tunarungu**
