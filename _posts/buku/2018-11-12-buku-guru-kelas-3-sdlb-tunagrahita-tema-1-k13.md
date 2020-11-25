@@ -40,4 +40,4 @@ Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda
   
 ## Download Buku
 **Download Buku Tunagrahita Kelas 3 Tema 1 Kurikulum 2013**:
-<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1b4-HfJtjWwQrJMLkDaNXfI6M5zBXj_B9" rel="nofollow" target="_blank" title="Download">Download</a></p>
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1A6-WDvF82xlwOTH9mEMiMz0b5U_s6T6z" rel="nofollow" target="_blank" title="Download">Download</a></p>
