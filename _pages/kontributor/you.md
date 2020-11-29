@@ -14,4 +14,3 @@ title: "You"
     </div>
 </div>
 <h4 class="font-weight-bold spanborder"><span>Posts by {{page.title}}</span></h4> {% assign posts = site.posts | where:"author","wahyu" %} {% for post in posts %} {% include main-loop-card.html %} {% endfor %}
-
