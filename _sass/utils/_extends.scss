@@ -164,12 +164,12 @@ ol.list-featured li:before {
 a.text-dark:hover {
     color: #03a87c !important;
 }
-a.text-dark:hover, a.text-dark:focus {
+a.text-dark:focus {
     color: #0a0c0d !important;
 }
 a, a:hover {
     transition: all .2s;
-    text-decoration: none;
+    text-decoration: none !important;
 }
 .mb-5, .my-5 {
     margin-bottom: 2rem !important;
