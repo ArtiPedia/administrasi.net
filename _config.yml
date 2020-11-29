@@ -56,6 +56,7 @@ defaults:
   values:
     layout: post
     category: buku
+    csymb: bse
     permalink: "/bse/:title"
     image: twitter-card.png
     author: wahyu
@@ -72,6 +73,7 @@ defaults:
   values:
     layout: post
     category: artikel
+    csymb: artikel
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -87,6 +89,7 @@ defaults:
   values:
     layout: post
     category: berita
+    csymb: berita
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -95,7 +98,7 @@ defaults:
     support: true
     breadcrumbs:
       - label: "Berita"
-        url: /berita/
+        url: /berita
 - scope:
     path: _posts/administrasi
     type: posts
@@ -103,6 +106,7 @@ defaults:
     layout: post
     permalink: "/adm/:title"
     category: administrasi
+    csymb: adm
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -118,6 +122,7 @@ defaults:
   values:
     layout: post
     category: tutorial
+    csymb: tutorial
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -133,6 +138,7 @@ defaults:
   values:
     layout: post
     category: teori
+    csymb: teori
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -148,6 +154,7 @@ defaults:
   values:
     layout: post
     category: dongeng
+    csymb: dongeng
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
@@ -163,6 +170,7 @@ defaults:
   values:
     layout: post
     category: infografis
+    csymb: infografis
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
