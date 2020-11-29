@@ -34,7 +34,7 @@ description: "Administrasi.net menyajikan berbagai informasi informatif tentang 
         <small class="d-block text-muted">
             In <span class="catlist">
                 {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
                 {% endfor %}
                 </span>                   
         </small>
@@ -65,7 +65,7 @@ description: "Administrasi.net menyajikan berbagai informasi informatif tentang 
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in second_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -92,7 +92,7 @@ description: "Administrasi.net menyajikan berbagai informasi informatif tentang 
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in third_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
@@ -119,12 +119,38 @@ description: "Administrasi.net menyajikan berbagai informasi informatif tentang 
                     <small class="d-block text-muted">
                         In <span class="catlist">
                         {% for category in fourth_post.categories %}
-                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>                   
                     </small>
                     <small class="text-muted">
                         {{ fourth_post.date | date: '%b %d, %Y' }}
+                    </small>
+                </div>
+            </div>
+   <!-- five latest post -->
+        {%- assign five_post = site.posts[4] -%}        
+        <div class="mb-3 d-flex align-items-center">                
+                {% if five_post.image %}
+                <div class="col-md-4">
+                <a href="{{site.baseurl}}{{five_post.url}}">
+                <img class="w-100" src="{% if five_post.image contains "://" %}{{ five_post.image }}{% else %}{{site.url}}/{{ five_post.image }}{% endif %}" alt="{{ five_post.title }}">
+                </a>
+                </div>
+                {% endif %}                
+                <div>
+                    <h2 class="mb-2 h6 font-weight-bold">
+                    <a class="text-dark" href="{{site.baseurl}}{{five_post.url}}">{{ five_post.title }}</a>
+                    </h2>
+                    <small class="d-block text-muted">
+                        In <span class="catlist">
+                        {% for category in five_post.categories %}
+                        <a class="text-capitalize text-muted smoothscroll" href="{{site.url}}/{{ category }}">{{ category }}</a><span class="sep">, </span>
+                        {% endfor %}
+                        </span>                   
+                    </small>
+                    <small class="text-muted">
+                        {{ five_post.date | date: '%b %d, %Y' }}
                     </small>
                 </div>
             </div>
