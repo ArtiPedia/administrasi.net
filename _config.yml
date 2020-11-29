@@ -43,14 +43,6 @@ defaults:
     author: wahyu
     avatar: /img/you.jpg
 - scope:
-    path: _pages/kontributor
-    type: pages
-  values:
-    layout: kontributor
-    image: twitter-card.png
-    author: wahyu
-    avatar: /img/you.jpg
-  - scope:
     path: _posts
     type: posts
   values:
