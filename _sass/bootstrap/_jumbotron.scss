@@ -38,15 +38,15 @@
     padding-top:    ($jumbotron-padding * 1.6);
     padding-bottom: ($jumbotron-padding * 1.6);
 
-    .container &,
-    .container-fluid & {
-      padding-left:  ($jumbotron-padding * 2);
-      padding-right: ($jumbotron-padding * 2);
-    }
+    
 
     h1,
     .h1 {
       font-size: 50px;
+    }
+	h2,
+    .h2 {
+      font-size: 40px;
     }
   }
 }

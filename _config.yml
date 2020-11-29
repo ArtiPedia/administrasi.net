@@ -221,8 +221,11 @@ include: [_redirects,.htaccess,_pages,_headers]
 
 plugins:
   - amp-jekyll
+  - jekyll-paginate
 
 ampdir: amp
+paginate: 14
+paginate_path: /page/:num/
 
 # Theme Settings
 analytics: UA-115101359-19
