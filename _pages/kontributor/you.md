@@ -1,5 +1,6 @@
 ---
 title: "You"
+layout: page
 ---
 
 <div class="align-items-center mb-5">
