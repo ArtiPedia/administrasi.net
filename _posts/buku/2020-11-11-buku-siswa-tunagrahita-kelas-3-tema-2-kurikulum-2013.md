@@ -11,7 +11,7 @@ tags:
   - sd
   - siswa
   - buku-siswa
-  - revisi-2017
+  - revisi-2015
   - kelas-3
   - tematik
   - download
@@ -25,7 +25,7 @@ tags:
 
 Materi pembelajaran bagi anak tunagrahita dalam **Buku Kelas 3 Tema 2 ** ini berbeda dengan materi pembelajaran di kelas sd umum, dimana bobot materinya lebih rendah disesuaikan dengan karakteristik anak **tunagrahita**.
 
-Bagi anda guru yang mengajar atau siswa yang duduk di **kelas 1 C (Tunagrahita)** tentunya buku ini akan bermanfaat bagi anda.
+Bagi anda guru yang mengajar atau siswa yang duduk di **kelas 3 C (Tunagrahita)** tentunya buku ini akan bermanfaat bagi anda.
 
 {% include ads-artikel.html %}
 
