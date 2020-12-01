@@ -4,8 +4,5 @@
 
 [build.environment]
   JEKYLL_ENV = "production"
-  
-[[plugins]]
-   [plugins.inputs]
-      exclude = ['/admin', '/404.html']
+
 
