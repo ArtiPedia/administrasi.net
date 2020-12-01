@@ -6,6 +6,13 @@ description: Sabar dan Tekun Menuntun ABK di Sekolah Inklusi. Sekolah Inklusi
   berkebutuhan khusus (ABK)
 image: /img/sabar-dan-tekun-menuntun-abk-di-sekolah-inklusi.jpg
 date: 2020-12-01T04:22:42.006Z
+tags:
+  - artikel
+  - pendidikan
+  - guru
+  - inklusi
+  - abk
+sumber: https://gtk.kemdikbud.go.id/read-news/sabar-dan-tekun-menuntun-abk-di-sekolah-inklusi
 ---
 Beberapa tahun lalu, guru dan tenaga kependidikan di SMKN 32 Jakarta memerlukan adaptasi awal kala sekolah tersebut menjadi sekolah inklusi. Sekolah Inklusi adalah sekolah reguler (non-SLB) yang juga melayani pendidikan untuk anak berkebutuhan khusus (ABK).
 
