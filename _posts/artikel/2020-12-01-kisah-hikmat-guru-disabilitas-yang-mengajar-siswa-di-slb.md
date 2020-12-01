@@ -6,6 +6,12 @@ description: Hikmat, seorang guru penyandang disabilitas, memiliki kisahnya
   Batang, Jawa Tengah. Ia adalah seorang tunadaksa
 image: /img/1606748444-hgn-hikmat-guru-slb.jpg
 date: 2020-12-01T04:18:57.025Z
+tags:
+  - guru
+  - inspirasi
+  - pendidikan
+  - slb
+  - abk
 sumber: https://gtk.kemdikbud.go.id/read-news/kisah-hikmat-guru-disabilitas-yang-mengajar-siswa-difabel
 ---
 Sosok guru inspiratif seringkali diangkat saat peringatan Hari Guru Nasional (HGN). Begitu pula dengan peringatan HGN tahun 2020 ini. Hikmat, seorang guru penyandang disabilitas, memiliki kisahnya sendiri sebagai pendidik anak-anak difabel di Sekolah Luar Biasa (SLB) Negeri Batang, Jawa Tengah. Ia adalah seorang tunadaksa.
