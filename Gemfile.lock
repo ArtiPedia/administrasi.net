@@ -153,7 +153,7 @@ PLATFORMS
 DEPENDENCIES
   amp-jekyll
   classifier-reborn (~> 2.2)
-  jekyll (~> 4.1.0)
+  jekyll (~> 4.1.1)
   jekyll-avatar
   jekyll-coffeescript
   jekyll-feed
