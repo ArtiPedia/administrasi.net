@@ -233,7 +233,7 @@ exclude: [
 sass:
   style: compressed
   
-include: [_redirects,.htaccess,_pages,_headers]
+include: [_redirects,.htaccess,_pages,_headers,.gitmodules]
 
 plugins:
   - amp-jekyll
