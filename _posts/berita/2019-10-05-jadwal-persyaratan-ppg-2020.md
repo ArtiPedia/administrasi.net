@@ -1,10 +1,14 @@
 ---
-title: "Jadwal dan Persyaratan PPG Tahun 2020"
-date: "2019-10-05 04:49:09"
-description: Cermati Jadwal dan Persyaratan PPG Tahun 2020 bagi PNS ataupun bukan PNS.
+title: Jadwal dan Persyaratan PPG Tahun 2020
+date: 2019-10-05 04:49:09
+description: Cermati Jadwal dan Persyaratan PPG Tahun 2020 bagi PNS ataupun bukan PNS
 author: wahyu
-tags: [pendidikan,guru,ppg]
+tags:
+  - pendidikan
+  - guru
+  - ppg
 published: true
+last_modified_date: 2020-12-02T04:42:10.056Z
 ---
 
 Mutu Pendidikan sangatlah penting untuk terus berkembang meningkat seiring dengan perubahan zajam. Untuk itu pemerintah terus berupaya meningkatkan mutu pendidikan salah satunya dengan meningkatkan kualitas Guru melalui PPGDJ. 
