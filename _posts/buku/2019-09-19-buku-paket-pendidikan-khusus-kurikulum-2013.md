@@ -1,7 +1,7 @@
 ---
 title: Buku Paket Tunagrahita Kurikulum 2013
-description: Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku
-  guru sampai buku siswa.
+description: Buku Tematik Tunagrahita Pendidikan Khusus Kurikulum 2013 mulai
+  buku guru sampai buku siswa.
 date: 2019-09-29T03:58:32.913Z
 last_modified_date: 2020-06-29T05:16:46.665Z
 tags:
