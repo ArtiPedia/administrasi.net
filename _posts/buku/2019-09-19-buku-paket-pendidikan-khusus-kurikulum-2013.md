@@ -1,7 +1,7 @@
 ---
 title: Buku Paket Tunagrahita Kurikulum 2013
-description: Buku Tematik Terpadu Pendidikan Khusus Kurikulum 2013 mulai buku
-  guru sampai buku siswa.
+description: Buku Tematik Tunagrahita Pendidikan Khusus Kurikulum 2013 mulai
+  buku guru sampai buku siswa.
 date: 2019-09-29T03:58:32.913Z
 last_modified_date: 2020-06-29T05:16:46.665Z
 tags:
@@ -123,8 +123,4 @@ Berikut ini buku paket untuk jenis kekhususan [Tunagrahita](/teori/tunagrahita "
 7. Tema 7 : <a  href="https://drive.google.com/file/d/1EJrYNLWBUehlSTOvA0yCRuBVAZR0oMmz/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
 8. Tema 8 : <a  href="https://drive.google.com/file/d/1b2Kh6cRLD0gMT6ctmVlmByjVae9JHknw/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
 9. Tema 9 : <a  href="https://drive.google.com/file/d/1J5rjCozXcL7qiwkFZenAoJMS3JrNqvu1/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
-10. Tema 10 : <a  href="https://drive.google.com/file/d/1QIUlnVKS9jHtwuO8_1Cx4dlwfijNJt30/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
-
-
-## Buku Tunarungu
-Berikut ini buku paket untuk jenis kekhususan **Tunarungu**
+10. Tema 10 : <a  href="https://drive.google.com/file/d/1QIUlnVKS9jHtwuO8_1Cx4dlwfijNJt30/view?usp=sharing" title="Download Buku Paket untuk Tunagrahita">Download</a>
