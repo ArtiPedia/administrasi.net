@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dongeng Asal Muasal Kantung Tupai
+title: "Dongeng Anak: Asal Muasal Kantung Tupai"
 description: Baca dongeng anak tentang  Asal Muasal Kantung Tupai. Bercerita
   tentang induk tupai yang kehilangan anaknya.
 image: /img/dongeng-tupai.png
