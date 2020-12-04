@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Apa itu Tunarungu
+title: Apa itu Tunarungu?
 description: "Tunarungu adalah keadaan dimana seseorang mengalami kehilangan
   atau kekurangan dalam hal kemampuan mendengar dan berbicara, sehingga alat
   pendengarannya tidak berfungsi dalam kehidupan sehari-hari. "
