@@ -29,9 +29,7 @@ Sardjono (2005) mengatakan bahwa tunarungu adalah kedaaan kehilangan
 pendengaran sebelum belajar bicara atau kehilangan pendengaran pada saat mulai belajar berbicara karena gangguan pendengaran, suara dan bahasa. Tunawicara adalah mereka yang menderita tunarungu sejak bayi atau sejak lahir sehingga tidak dapat menangkap pembicaraan orang lain, sehingga tidak mampu mengembangkan kemampuan bicara meskipun tidak mengalami gangguan pada alat suaranya.
 
 ### Kesimpulan
-Jadi dapat disimpulkan bahwa penyandang **tunarungu** adalah mereka yang
-mengalami kehilangan kemampuan untuk mendengar baik sebagian maupun
-seluruhnya yang mengakibatkan tidak mampu untuk menggunakan alat
+Jadi dapat disimpulkan bahwa penyandang **tunarungu** adalah mereka yang mengalami kehilangan kemampuan untuk mendengar baik sebagian maupun seluruhnya yang mengakibatkan tidak mampu untuk menggunakan alat
 pendengarannya dalam kehidupan sehari-hari dan juga tidak mampu
 mengembangkan kemampuan berbicara. Dalam melakukan komunikasi dengan
 orang lain sangat membutuhkan bahasa dengan ucapan yang jelas sehingga
