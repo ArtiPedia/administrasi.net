@@ -3,6 +3,7 @@ layout: post
 title: Apa itu Autisme?
 description: Autisme merupakan suatu gangguan perkembangan yang sangat kompleks
   pada anak, mulai tampak sebelum usia 3 tahun.
+image: /img/definisi-autis.jpg
 date: 2020-12-04T08:06:49.765Z
 ---
 ## Pengertian Autisme
