@@ -13,7 +13,7 @@ tags:
   - pengertian
 ---
 ## Pengertian Tunarungu
-Tunarungu adalah keadaan dimana seseorang mengalami kehilangan atau
+**Tunarungu** adalah keadaan dimana seseorang mengalami kehilangan atau
 kekurangan dalam hal kemampuan mendengar dan berbicara, sehingga alat
 pendengarannya tidak berfungsi dalam kehidupan sehari-hari. Hal ini dapat terjadi baik sebagian atau seluruhnya, dan berdampak kompleks pada kehidupan orang dengan keadaan tunarungu, terutama pada kemampuan
 berbahasa sebagai alat komunikasi yang sangat penting.
@@ -29,7 +29,7 @@ Sardjono (2005) mengatakan bahwa tunarungu adalah kedaaan kehilangan
 pendengaran sebelum belajar bicara atau kehilangan pendengaran pada saat mulai belajar berbicara karena gangguan pendengaran, suara dan bahasa. Tunawicara adalah mereka yang menderita tunarungu sejak bayi atau sejak lahir sehingga tidak dapat menangkap pembicaraan orang lain, sehingga tidak mampu mengembangkan kemampuan bicara meskipun tidak mengalami gangguan pada alat suaranya.
 
 ### Kesimpulan
-Jadi dapat disimpulkan bahwa penyandang tunarungu adalah mereka yang
+Jadi dapat disimpulkan bahwa penyandang **tunarungu** adalah mereka yang
 mengalami kehilangan kemampuan untuk mendengar baik sebagian maupun
 seluruhnya yang mengakibatkan tidak mampu untuk menggunakan alat
 pendengarannya dalam kehidupan sehari-hari dan juga tidak mampu
