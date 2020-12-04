@@ -30,7 +30,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **kelas 5 C (Tunagrahita)*
 
 {% include ads-artikel.html %}
 
-## Buku Siswa kelas 5 Tema 8SDLB Tunagrahita  
+## Buku Siswa kelas 5 Tema 8 SDLB Tunagrahita  
 
 |Uraian|Keterangan|
 | --- | --- |
@@ -46,10 +46,10 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **kelas 5 C (Tunagrahita)*
 |ISBN|<strong>N/A</strong>|
 
 ## Pertimbangan
-**Buku Siswa Tunagrahita Kelas 5 Tema Bumi** ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
+**Buku Siswa Tunagrahita Kelas 5 Tema Merawat Hewan dan Tumbuhan** ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ## Download Buku
 **Download Buku Kurikulum 2013 Bagi Tunagrahita Kelas 5 Tema 8 Merawat Hewan dan Tumbuhan**:
-<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1X649l3CbtrDaRQ7ojmpJNCVPCw38tkcX" rel="nofollow" target="_blank" title="Download Buku Siswa Tunagrahita Kelas 5 Tema Bumi">Download</a></p>
+<p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1X649l3CbtrDaRQ7ojmpJNCVPCw38tkcX" rel="nofollow" target="_blank" title="Download Buku Siswa Tunagrahita Kelas 5 Tema Merawat Hewan dan Tumbuhan">Download</a></p>
