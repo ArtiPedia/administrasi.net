@@ -4,6 +4,7 @@ title: Panduan Menulis Buku Harian
 description: Buku harian menjadi sarana yang tepat untuk mengekspresikan diri,
   mengungkapkan perasaan, mencatat impian atau gagasan, dan merefleksikan
   pengalaman sehari-hari menggunakan media yang mampu menjaga privasi.
+image: /img/panduan-menulis-diari.jpg
 date: 2020-12-03T12:29:40.752Z
 ---
 Buku harian menjadi sarana yang tepat untuk mengekspresikan diri, mengungkapkan perasaan, mencatat impian atau gagasan, dan merefleksikan pengalaman sehari-hari menggunakan media yang mampu menjaga privasi. 
