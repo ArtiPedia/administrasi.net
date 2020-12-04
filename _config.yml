@@ -42,6 +42,7 @@ defaults:
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
+    toc: true
 - scope:
     path: _pages/kontributor
     type: pages
@@ -58,6 +59,7 @@ defaults:
     image: twitter-card.png
     author: wahyu
     avatar: /img/you.jpg
+    toc: true
 - scope:
     path: _posts/buku
     type: posts
@@ -238,6 +240,11 @@ include: [_redirects,.htaccess,_pages,_headers,.gitmodules]
 plugins:
   - amp-jekyll
   - jekyll-paginate
+  - jekyll-toc
+  
+toc:
+  min_level: 2
+  max_level: 10
 
 ampdir: amp
 paginate: 14
