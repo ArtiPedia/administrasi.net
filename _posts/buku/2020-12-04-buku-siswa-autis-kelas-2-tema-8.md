@@ -29,6 +29,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 2 Q (Autis)** tent
 {% include ads-artikel.html %}
 
 ## Buku Siswa Kelas 2 Autis Tema 8 
+
 |Uraian|Keterangan|
 | --- | --- |
 |Mata Pelajaran|<a href="/bse/buku-siswa-autis-kelas-2-tema-8" title="Buku siswa Kelas 2 Tema 8 Lingkungan Sekitar Rumahku SDLB Autis"><strong>Buku siswa Kelas 2 Tema 8 Lingkungan Sekitar Rumahku SDLB Autis</strong></a>|
