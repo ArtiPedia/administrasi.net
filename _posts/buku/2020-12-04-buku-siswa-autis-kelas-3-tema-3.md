@@ -31,12 +31,12 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 3 Q (Autis)** tent
 ## Buku Siswa Kelas 3 Autis Tema 3 
 |Uraian|Keterangan|
 | --- | --- |
-|Mata Pelajaran|<a href="/bse/buku-siswa-autis-kelas-3-tema-3" title="Buku siswa Kelas 3 Tema 3 Makhluk Hidup dan Benda Tak Hidup SDLB Autis"><strong>Buku siswa Kelas 3 Tema 3 Makhluk Hidup dan Benda Tak Hidup SDLB Autis</strong></a>|
+|Mata Pelajaran|<a href="/bse/buku-siswa-autis-kelas-3-tema-3" title="Buku siswa Kelas 3 Tema 3 Makhluk Hidup dan Benda Tak Hidup SDLB Autis"><strong>Buku siswa Kelas 3 Tema 3 Makhluk Hidup dan Benda Tak Hidup SDLB Autis</strong></a> |
 |Jenis|<a href="/bse" title="Buku Siswa" target="_blank">Buku Siswa</a>|
 |Model|Tematik|
 |Satuan Pendidikan|SDLB|
 |Kelas|3 (Tiga)|
-|Penulis|Ni Nyoman Suhermi, MA., M.Pd|
+|Penulis|Ni Nyoman Suhermi, MA., M.Pd |
 |Penerbit|Pusat Kurikulum dan Perbukuan, Balitbang, Kemdikbud|
 |Jumlah Halaman|N/A|
 |Kurikulum|<strong>2013</strong>|
