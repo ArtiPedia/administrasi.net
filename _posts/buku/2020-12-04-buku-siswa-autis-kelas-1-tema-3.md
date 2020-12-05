@@ -32,6 +32,7 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **Kelas 1 C (Autis)** tent
 {% include ads-artikel.html %}
 
 ## Buku Siswa Kelas 1 Autis Tema 3 
+
 |Uraian|Keterangan|
 | --- | --- |
 |Mata Pelajaran|<a href="/bse/buku-siswa-autis-kelas-1-tema-3" title="Buku siswa Kelas 1 Tema 3 Kegiatanku SDLB Autis"><strong>Buku siswa Kelas 1 Tema 3 Kegiatanku SDLB Autis</strong></a>|
