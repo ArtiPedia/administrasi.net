@@ -1,8 +1,7 @@
 ---
 title: Buku Tematik Kelas 3 Kurikulum 2013 Revisi 2018
 description: >-
-  Buku Tematik Terpadu SD/Mi Kelas 3 Kurikulum 2013 Revisi 2018 digunakan dalam
-  rangka mensukseskan implementasi kurikulum 2013.
+  Buku Tematik Terpadu SD/Mi Kelas 3 Kurikulum 2013 Revisi 2018 terdiri dari buku guru dan buku siswa kelas 3 sd/mi.
 date: 2019-10-08T06:23:38.962Z
 tags:
   - buku
@@ -20,19 +19,19 @@ tags:
 
 Kurikulum 2013 disusun sedemikian rupa untuk mengembangkan kemampuan peserta didik dalam berbagai ranah, diantaranya ranah pengetahuan, keterampilan, dan sikap secara utuh.
  Proses untuk mencapai kemampuan tersebut dilakukan dengan memadukan beberapa ranah melaui *pendekatan pembelajaran tematik terpadu*.
- Untuk mendukung tercapainya tujuan dari kurikulum, maka dibutuhkan buku tematik untuk kelas 3 yang berisi aktivitas yang mendorong peserta didik untuk mencapai standar kompetensi yang telah ditetapkan, melalui pembelajaran *kreatif, aktif, menantang, bermakna, dan mendorong siswa untuk bisa berpikir kritis*.
+ Untuk mendukung tercapainya tujuan dari kurikulum, maka dibutuhkan buku tematik untuk **kelas 3** baik itu **buku guru** ataupun **buku siswa** yang berisi aktivitas yang mendorong peserta didik untuk mencapai standar kompetensi yang telah ditetapkan, melalui pembelajaran *kreatif, aktif, menantang, bermakna, dan mendorong siswa untuk bisa berpikir kritis*.
 
 {% include ads-artikel.html %}
 
 Diharapkan dengan tersedianya *Buku Sekolah Digital* ini, serta menyimpannya di smartphone, tablet atau laptop, maka seluruh siswa **kelas 3** dapat belajar dimana saja dan kapan saja.
 
 ## Download Buku Kelas 3 SD Revisi 2018
-Berikut ini adalah daftar [Buku Tematik Terpadu Kelas 3 Kurikulum 2013 Revisi 2018](/bse/buku-tematik-sd-mi-kelas-3-kurikulum-2013.html "Buku Tematik Kelas 3 SD Terpadu Kurikulum 2013 Revisi 2018")
+Berikut ini adalah daftar [Buku Tematik Terpadu Kelas 3 Kurikulum 2013 Revisi 2018](/bse/buku-tematik-sd-mi-kelas-3-kurikulum-2013 "Buku Tematik Kelas 3 SD Terpadu Kurikulum 2013 Revisi 2018")
 
-<ol class="arti">{% for post in site.tags.kelas-3 %}
+<ol class="arti">{% for post in site.tags.kelas-3 %} {% if post.tags contains "sd" %}
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-</li>
+</li>{% endif %}
 {% endfor %}
 </ol>
 
