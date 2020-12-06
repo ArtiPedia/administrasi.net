@@ -30,7 +30,7 @@ Sekarang ke bagian yang menarik!
 
 Untuk menyiapkan blog yang dihosting sendiri dengan nama domain Anda sendiri, Anda memerlukan dua hal:
 
-**Nama Domain** - Ini akan menjadi alamat blog pribadi Anda, url/alamat dimana orang-orang akan menemukan artikel Anda yang mengagumkan. Misalnya, domain [Artipedia](https://artipedia.site "ArtiPedia") adalah Artipedia.site.
+**Nama Domain** - Ini akan menjadi alamat blog pribadi Anda, url/alamat dimana orang-orang akan menemukan artikel Anda yang mengagumkan. Misalnya, domain [AAdministrasi.Net](https://administrasi.net "Administrasi.Net") adalah Administrasi.Net.
 
 Biaya nama domain harganya kurang lebih 120 ribu/tahun, tetapi jika Anda membeli hosting, provider tertentu menggratiskan domain seumur hidup selama anda berlangganan hosting di provider tersebut. 
 
