@@ -1,7 +1,7 @@
 ---
 title: "Hosting Website Gratis di Github"
 description: Pelajari cara membuat dan menghosting situs web di Github dan menghostingnya secara gratis menggunakan Github Pages. Ini dapat digunakan untuk meng-host proyek Anda dan situs web portofolio dengan mudah tanpa mengeluarkan uang sepeser pun. Anda juga dapat menggunakan ini untuk meng-host situs web pribadi di github.
-image: membuat repositori.png
+image: /img/membuat repositori.png
 date: "2020-12-05 20:48:09 -0500"
 tags: [Github,Dasar]
 ---
