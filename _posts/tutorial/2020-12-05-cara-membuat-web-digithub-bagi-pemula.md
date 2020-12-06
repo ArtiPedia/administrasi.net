@@ -1,9 +1,13 @@
 ---
-title: "Membuat Blog Gratis Di Github Pages Bagi Pemula"
-description: Langkah mudah membuat blog jekyll bagi pemula dengan memanfaatkan hosting gratis di Github
-date: "2020-12-05 20:48:09 -0500"
+title: Membuat Blog Gratis Di Github  Bagi Pemula
+description: Langkah mudah membuat blog jekyll bagi pemula dengan memanfaatkan
+  hosting gratis di Github
 image: memilih%20tema%20lagi.png
-tags: [Github, Dasar, Tutorial]
+date: 2020-12-05 20:48:09 -0500
+tags:
+  - Github
+  - Dasar
+  - Tutorial
 ---
 
 ## Mari kita mulai membuat blog Jekyll.
