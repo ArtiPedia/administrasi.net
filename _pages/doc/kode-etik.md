@@ -1,7 +1,7 @@
 ---
 title: Kode Etik
 description: Kode Etik Berisi perilaku yang dapat diterima dan tidak diterima oleh semua kontribor serta menerapkan prinsip-prinsip ini secara adil dan konsisten ke setiap aspek pengelolaan website ini.
-permalink: /docs/kode-etik/
+permalink: /doc/kode-etik
 ---
 
 ## Kode etik
