@@ -172,7 +172,7 @@ description: "Administrasi.net menyajikan berbagai informasi informatif tentang 
                 </p>
                 <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Read More</a>
             </div>
-            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.url}}/{{ post.image }});">	
+            <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.url}}/img/{{ post.image | replace: '/img/','' }});">	
             </div>
         </div>
     </div>
