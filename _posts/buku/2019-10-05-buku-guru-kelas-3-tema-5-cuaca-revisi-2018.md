@@ -10,10 +10,7 @@ published: true
 
 Dimana model pembelajaran melalui pendekatan pembelajaran tematik terpadu dengan berbasis aktivitas yang mendorong siswa untuk mencapai Kompetensi inti dan kompetensi dasar yang telah ditentukan.
 
-Buku guru tematik kelas 3 tema 5 revisi 2018 ini sangat penting bagi guru baik itu dalam menyusun program pembelajaran ataupun dalam pelaksanaan pembelajaran di kelas lainnya, karena memberikan gambaran yang jelas dan rinci tahapan-tahapan kegiatan yang akan dilaksanakan nantinya.
-
-* TOC
-{:toc}
+**Buku guru tematik kelas 3 tema 5 revisi 2018** ini sangat penting bagi guru baik itu dalam menyusun program pembelajaran ataupun dalam pelaksanaan pembelajaran di kelas lainnya, karena memberikan gambaran yang jelas dan rinci tahapan-tahapan kegiatan yang akan dilaksanakan nantinya.
 
 <script type="application/ld+json">
 {
@@ -69,7 +66,7 @@ Penulis|Yun Kusumawati dan Panca Ariguntar.|
 
 {% include ads-artikel.html %}
 
-## Subtema
+## Subtema Cuaca
 <strong>Buku Guru</strong> <strong>Kelas 3 Tema 5 Cuaca</strong> mencakup beberapa subtema antara lain: 
 1. Keadaan Cuaca
 2. Perubahan Cuaca
@@ -101,5 +98,5 @@ Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _sisw
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.
   
 ## Download Buku Kurikulum 2013 Kelas 3 Tema 5 
-Buku Kurtilas Revisi 2018 ini dapat anda unduh atau baca melalui tombol dibawah:
+**Buku Kurtilas Revisi 2018** ini dapat anda unduh atau baca melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1hMHVWf_9TxQ9MpdgHVu3d8e4Du-G6SxN" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1hMHVWf_9TxQ9MpdgHVu3d8e4Du-G6SxN/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>

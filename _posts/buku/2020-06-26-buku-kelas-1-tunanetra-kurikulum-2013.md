@@ -8,6 +8,10 @@ author: wahyu
 tags:
   - pendidikan
   - buku
+  - sdlb
+  - buku-guru
+  - buku-siswa
+  - tunanetra
   - tematik
   - kelas-1
   - pendidikan-khusus

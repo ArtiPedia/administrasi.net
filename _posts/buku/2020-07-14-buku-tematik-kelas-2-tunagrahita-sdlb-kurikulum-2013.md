@@ -9,6 +9,8 @@ author: wahyu
 tags:
   - pendidikan
   - buku
+  - sdlb
+  - tunagrahita
   - tematik
   - kelas-2
   - pendidikan-khusus

@@ -1,12 +1,10 @@
 ---
 title: "Buku Guru Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018"
 date: "2018-06-25 11:48:09"
-description: Download Buku K13 - Buku Guru kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 merupakan buku paket pelajaran dengan model tematik kurikulum 2013 revisi 2018.
+description: Download Buku Guru kelas 3 tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018 Kurikulum 2013 merupakan buku paket pelajaran dengan model tematik kurikulum 2013 revisi 2018.
 tags: [buku,pendidikan,sd,guru,buku-guru,kelas-3,revisi-2018,tematik, download]
 published: true
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -42,7 +40,7 @@ published: true
  
 </script>
 
-[Administrasi.Net](/ "Administrasi.Net") - **Buku Kurikulum 2013 (K13) Revisi** terbaru Tahun 2018 diantaranya Buku Guru Kelas 3 <abbr title="Sekolah Dasar">SD</abbr> **semester 1 (satu) tema 1** (**Pertumbuhan dan Perkembangan Makhluk Hidup**) ini merupakan buku paket tematik yang diperuntukkan bagi guru. Buku ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sonya Sinyanyuri dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Kurikulum 2013 (K13) Revisi** terbaru Tahun 2018 diantaranya **Buku Guru Kelas 3** <abbr title="Sekolah Dasar">SD</abbr> **semester 1 (satu) tema 1** (**Pertumbuhan dan Perkembangan Makhluk Hidup**) ini merupakan buku paket tematik yang diperuntukkan bagi guru. Buku ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Sonya Sinyanyuri dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Guru Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup
 
@@ -62,7 +60,7 @@ Penulis|Sonya Sinyanyuri dan Lubna Assagaf|
 
 {% include ads-artikel.html %}
 
-## Subtema Buku Guru Kelas 3 Tema 1 
+## Subtema Pertumbuhan dan Perkembangan Makhluk Hidup
 <strong>Buku Guru</strong> <strong>Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup</strong> mencakup beberapa subtema antara lain: 
 1. Ciri-Ciri Makhluk Hidup
 2. Pertumbuhan dan Perkembangan Manusia

@@ -9,8 +9,9 @@ last_modified_date: 2020-11-11T03:34:42.237Z
 tags:
   - buku
   - pendidikan
-  - sd
-  - guru
+  - sdlb
+  - tunagrahita
+  - siswa
   - buku-guru
   - revisi-2017
   - kelas-1

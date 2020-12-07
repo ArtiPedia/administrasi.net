@@ -14,6 +14,7 @@ tags:
   - revisi-2019
   - mapel
   - download
+  - pjok
 ---
 
 * TOC
@@ -25,7 +26,7 @@ Pada jenjang pendidikan SD/MI kelas rendah (*kelas 1–3*) diarahkan mencapai pe
 
 Sedangkan pada kelas tinggi (4–6) diarahkan untuk pengembangan gerak dasar menuju kesiapan gerak spesifik, pengembangan kebugaran jasmani, serta gaya hidup sehat melalui permainan bola besar, permainan bola kecil, atletik, bela diri, senam, gerak berirama, aktivitas air, dan materi kesehatan.
 
-Untuk mencapai tujuan tersebut diperlukan *Buku Guru PJOK* Kurikulum 2013 revisi 2019 untuk memudahkan guru dalam menyusun program, menyampaikan materi, melakukan penilaian, menyajikan remedial, pengayaan, serta berinteraksi dengan orang tua.
+Untuk mencapai tujuan tersebut diperlukan *Buku Guru PJOK* **Kurikulum 2013 revisi 2019** untuk memudahkan guru dalam menyusun program, menyampaikan materi, melakukan penilaian, menyajikan remedial, pengayaan, serta berinteraksi dengan orang tua.
 
 ## Isi Buku Guru PJOK SD Revisi 2019
 Petunjuk khusus memuat beberapa rubrik seperti berikut.
