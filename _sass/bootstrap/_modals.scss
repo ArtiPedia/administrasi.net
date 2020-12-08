@@ -148,3 +148,12 @@
 @media (min-width: $screen-md-min) {
   .modal-lg { width: $modal-lg; }
 }
+#search-modal{z-index:9999999;padding:30px!important}
+#search-modal .close{top:20px;right:30px;position:absolute;cursor:pointer;font-size:50px;font-weight:400}
+#search-modal .modal-content{border:0}
+#search-modal form{padding:0;border:0;border-bottom:1px solid #d6d6d6}
+#search-modal form button{background:0 0;color:#383143;padding:15px}
+#search-modal form input{border:0;padding:15px 0}
+#search-modal .modal-dialog{max-width:700px;top:10%;margin-top:0}
+
+

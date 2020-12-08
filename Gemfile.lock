@@ -163,7 +163,7 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-toc (~> 0.12.2)
+  jekyll-toc
   jemoji
   kramdown (~> 2.1)
   launchy (~> 2.3)
