@@ -67,11 +67,18 @@
     <script type="application/ld+json">
    { 
    "@context": "https://schema.org", 
- "@type": "Article",
+ "@type": "NewsArticle",
+ "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ site.url }}/{{page.category}}"
+      },
  "headline": "{{ page.title }}",
  "alternativeHeadline": "{{ page.title }} - {{ site.name }} ",
  "image": "{%if page.image %}{{ site.url }}/img/{{ page.image | replace: '/img/','' }}{% else %}{{ site.url }}{{ site.logo }}{% endif %}",
- "author": "{{page.author}}", 
+  "author": {
+        "@type": "Person",
+        "name": "{{page.author}}"
+      },
  "editor": "yOu", 
  "wordcount" : "{{ page.content | size }}",
  "genre": "{{page.category}}", 
@@ -107,14 +114,14 @@
         "@graph": [{
             "@type": "WebPage",
             "author": {
-                "@id": "#identity"
+                "@id": "https://administrasi.net/kontributor/you"
             },
             "copyrightHolder": {
-                "@id": "#identity"
+                "@id": "https://administrasi.net/doc/kebijakan-privasi-cookie"
             },
-            "copyrightYear": "2019-06-06T10:10:00-07:00",
+            "copyrightYear": "2021",
             "creator": {
-                "@id": "#creator"
+                "@id": "https://administrasi.net/kontributor/you"
             },
           
             "description": "{{site.description}}",
@@ -127,13 +134,20 @@
             "mainEntityOfPage": "{{site.url}}",
             "name": "{{site.name}}",
             "publisher": {
-                "@id": "#creator"
+                "@id": "https://www.facebook.com/administrasi.net"
             },
             "url": "{{site.url}}"
         }, {
             "@id": "#creator",
             "@type": "Organization"
-        }, {
+        }, "address": {
+  "@type": "PostalAddress",
+  "streetAddress": "Jl. Sindangsari Raya",
+  "addressLocality": "Ciamis",
+  "addressRegion": "JB",
+  "postalCode": "46261",
+  "addressCountry": "ID"
+},{
             "@type": "BreadcrumbList",
             "description": "Breadcrumbs list",
             "itemListElement": [{
@@ -161,6 +175,14 @@
   }
 }
 </script>
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://administrasi.net",
+      "logo": "{{ site.url }}/apple-touch-icon.png"
+    }
+    </script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
     google_ad_client: "ca-pub-5849615914567319",
