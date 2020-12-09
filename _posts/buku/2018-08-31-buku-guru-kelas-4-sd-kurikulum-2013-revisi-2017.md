@@ -18,11 +18,34 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 
 {% include ads-artikel.html %}
 
-**Buku Guru Kurikulum 2013 kelas 4 (IV)** <acronym title="Sekolah Dasar">SD</acronym> untuk memudahkan para guru dalam melaksanakan pembelajaran tematik terpadu. Buku Kurikulum 2013 SD ini mencakup jaringan tema, ruang lingkup pembelajaran, tujuan pembelajaran, media dan alat pembelajaran, langkah-langkah kegiatan pembelajaran, pengalaman belajar, dan teknik penilaian.
+**Buku Guru Kurikulum 2013 kelas 4 (IV)** <abbr title="Sekolah Dasar">SD</abbr> untuk memudahkan para guru dalam melaksanakan pembelajaran tematik terpadu. Buku Kurikulum 2013 SD ini mencakup jaringan tema, ruang lingkup pembelajaran, tujuan pembelajaran, media dan alat pembelajaran, langkah-langkah kegiatan pembelajaran, pengalaman belajar, dan teknik penilaian.
 
-**Buku Guru kelas 4 <acronym title="Sekolah Dasar">SD</acronym> Kurikulum 2013 edisi revisi tahun 2017** kali ini tidak dilengkapi dengan lembar latihan. Guru juga dapat berkreasi sendiri membuat soal-soal latihan dan bahan-bahan penilaian yang disesuaikan dengan kondisi peserta didik.
+**Buku Guru kelas 4 <abbr title="Sekolah Dasar">SD</abbr> Kurikulum 2013 edisi revisi tahun 2017** kali ini tidak dilengkapi dengan lembar latihan. Guru juga dapat berkreasi sendiri membuat soal-soal latihan dan bahan-bahan penilaian yang disesuaikan dengan kondisi peserta didik.
 
-### Download Buku Guru Kelas IV <acronym title="Sekolah Dasar">SD</acronym> Kurikulum 2013 Revisi 2017
+### Fungsi Buku Guru
+1. Sebagai Petunjuk Penggunaan Buku Siswa
+Informasi yang akan didapatkan dari Buku Guru adalah sebagai berikut.
+a. Karakteristik Kurikulum 2013, Kompetensi Inti, Kompetensi Dasar, dan Indikator Pencapaian Kompetensi Dasar Pembelajaran mata pelajaran terkait.
+b. Petunjuk Penggunaan Buku dan penjelasan bagian-bagian Buku Siswa.
+2. Sebagai Acuan Kegiatan Pembelajaran di kelas
+Buku Guru menyajikan hal-hal sebagai berikut.
+a. Menjelaskan tujuan pembelajaran yang harus dicapai.
+b. Menjelaskan langkah-langkah pembelajaran yang dilakukan dalam menyelenggarakan proses pembelajaran agar dapat membantu guru dalam menyusun rencana pelaksanaan pembelajaran dengan sistematis mengikuti langkah-langkah pembelajaran tersebut.
+c. Menjelaskan tentang teknik dan instrumen penilaian yang dapat digunakan dalam setiap pilihan pembelajaran yang mungkin memiliki karakteristik tertentu.
+3. Penjelasan tentang metode dan teknik yang digunakan dalam proses pembelajaran.
+
+### Karakteristik Buku Guru
+Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
+
+1. Mengembangkan keseimbangan antara sikap spiritual dan sosial, pengetahuan, dan keterampilan, serta menerapkannya dalam berbagai situasi di sekolah dan masyarakat.
+2. Menempatkan sekolah sebagai bagian dari masyarakat yang memberikan pengalaman belajar agar siswa mampu menerapkan apa yang dipelajari di sekolah ke masyarakat dan memanfaatkan masyarakat dan lingkungan sebagai sumber belajar.
+3. Memberi waktu yang cukup leluasa untuk mengembangkan berbagai sikap, pengetahuan, dan keterampilan.
+4. Mengembangkan kompetensi yang dinyatakan dalam bentuk Kompetensi Inti yang dirinci lebih lanjut dalam Kompetensi Dasar mata pelajaran.
+5. Mengembangkan Kompetensi Inti menjadi unsur pengorganisasi (organizing elements) Kompetensi Dasar. Semua Kompetensi Dasar dan proses pembelajaran dikembangkan untuk mencapai kompetensi yang dinyatakan dalam Kompetensi Inti.
+6. Di dalam Buku Guru juga diinformasikan mengenai Standar Kompetensi Lulusan (SKL), Kompetensi Inti (KI), dan Kompetensi Dasar pada mata pelajaran terkait. 
+
+
+### Download Buku Guru Kelas IV <abbr title="Sekolah Dasar">SD</abbr> Kurikulum 2013 Revisi 2017
 Berikut ini kumpulan [buku guru kelas IV sd revisi 2017](/bse/buku-guru-kelas-4-sd-kurikulum-2013-revisi-2017 "Buku Guru kelas 4 SD Kurikulum 2013 edisi revisi 2017"):
 
 <div class="products_box" id="products_box_1">

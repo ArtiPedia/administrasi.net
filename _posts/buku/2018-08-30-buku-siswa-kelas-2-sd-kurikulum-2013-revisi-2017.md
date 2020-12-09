@@ -9,14 +9,14 @@ published: true
 * TOC
 {:toc}
 
-### Pendahuluan
+## Pendahuluan
 [Administrasi.Net](/ "Administrasi.Net") - Keberadaan Buku Siswa sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. 
 
 **Buku Siswa** pada **Kurikulum 2013** merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 
 Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk memperoleh Buku Sekolah Elektronik (BSE) Kurikulum 2013. Buku Kurikulum 2013 untuk kelas 2 jenjang **Sekolah Dasar (SD)** bisa didownload secara gratis. Buku Kurikulum 2013 kelas 2 SD terdiri dari buku pegangan guru dan buku pelajaran bagi siswa.
 
-**Buku Siswa Kurikulum 2013 kelas 2 <acronym title="Sekolah Dasar">SD</acronym> Revisi 2017** tidak dilengkapi dengan lembar latihan. Guru juga dapat berkreasi sendiri membuat soal-soal latihan dan bahan-bahan penilaian yang disesuaikan dengan kondisi peserta didik.
+**Buku Siswa Kurikulum 2013 kelas 2 <abbr title="Sekolah Dasar">SD</abbr> Revisi 2017** tidak dilengkapi dengan lembar latihan. Guru juga dapat berkreasi sendiri membuat soal-soal latihan dan bahan-bahan penilaian yang disesuaikan dengan kondisi peserta didik.
 
 Buku Siswa digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
 
@@ -25,7 +25,9 @@ Buku Siswa juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pemb
 Buku Siswa dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
 
 Buku Siswa diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
-### Download Buku Siswa Kelas 2 SD Kurikulum 2013 Revisi 2017
+
+
+## Download Buku Siswa Kelas 2 SD Kurikulum 2013 Revisi 2017
 Berikut ini kumpulan [buku siswa kelas 2 sd revisi 2017](/bse/buku-siswa-kelas-2-sd-kurikulum-2013-revisi-2017 "Buku Siswa kelas 2 SD Kurikulum 2013 edisi revisi 2017"):
 
 {% include ads-artikel.html %}

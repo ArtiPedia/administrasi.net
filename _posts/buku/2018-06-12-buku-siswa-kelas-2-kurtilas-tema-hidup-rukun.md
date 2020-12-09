@@ -15,8 +15,6 @@ tags:
   - revisi-2017
   - download
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -78,6 +76,8 @@ Penulis|Irene Maria Juli Asuti|
 2. Hidup Rukun Di Tempat Bermain
 3. Hidup Rukun Di Sekolah
 4. Hidup Rukun Di Masyarakat
+
+## Fungsi Buku Siswa
 
 **Buku siswa** <b>kelas 2 semester 1 Tema 1</b> ini berisi sebagai berikut.
 1. Buku Siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.

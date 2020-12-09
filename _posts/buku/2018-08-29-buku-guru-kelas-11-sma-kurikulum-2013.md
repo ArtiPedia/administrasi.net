@@ -5,13 +5,33 @@ description: Berisi kumpulan Buku Guru Kelas XI SMA Kurikulum 2013 bagi guru SMA
 tags: [buku,pendidikan,sma,guru,kelas-11,download]
 published: true
 ---
-* TOC
-{:toc}
 
 ## Pendahuluan
 [Administrasi.Net](/ "Administrasi.Net") - **Buku Guru** sangat diperlukan baik itu dalam menyusun program pembelajaran ataupun untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini digunakan telah diganti menjadi kurikulum 2013.  
 
 Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program BSE (Buku Sekolah Elektronik) dimana **<abbr title="Buku Sekolah Elektronik">BSE</abbr>** merupakan **buku teks pelajaran** yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
+
+### Fungsi Buku Guru
+1. Sebagai Petunjuk Penggunaan Buku Siswa
+Informasi yang akan didapatkan dari Buku Guru adalah sebagai berikut.
+a. Karakteristik Kurikulum 2013, Kompetensi Inti, Kompetensi Dasar, dan Indikator Pencapaian Kompetensi Dasar Pembelajaran mata pelajaran terkait.
+b. Petunjuk Penggunaan Buku dan penjelasan bagian-bagian Buku Siswa.
+2. Sebagai Acuan Kegiatan Pembelajaran di kelas
+Buku Guru menyajikan hal-hal sebagai berikut.
+a. Menjelaskan tujuan pembelajaran yang harus dicapai.
+b. Menjelaskan langkah-langkah pembelajaran yang dilakukan dalam menyelenggarakan proses pembelajaran agar dapat membantu guru dalam menyusun rencana pelaksanaan pembelajaran dengan sistematis mengikuti langkah-langkah pembelajaran tersebut.
+c. Menjelaskan tentang teknik dan instrumen penilaian yang dapat digunakan dalam setiap pilihan pembelajaran yang mungkin memiliki karakteristik tertentu.
+3. Penjelasan tentang metode dan teknik yang digunakan dalam proses pembelajaran.
+
+### Karakteristik Buku Guru
+Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
+
+1. Mengembangkan keseimbangan antara sikap spiritual dan sosial, pengetahuan, dan keterampilan, serta menerapkannya dalam berbagai situasi di sekolah dan masyarakat.
+2. Menempatkan sekolah sebagai bagian dari masyarakat yang memberikan pengalaman belajar agar siswa mampu menerapkan apa yang dipelajari di sekolah ke masyarakat dan memanfaatkan masyarakat dan lingkungan sebagai sumber belajar.
+3. Memberi waktu yang cukup leluasa untuk mengembangkan berbagai sikap, pengetahuan, dan keterampilan.
+4. Mengembangkan kompetensi yang dinyatakan dalam bentuk Kompetensi Inti yang dirinci lebih lanjut dalam Kompetensi Dasar mata pelajaran.
+5. Mengembangkan Kompetensi Inti menjadi unsur pengorganisasi (organizing elements) Kompetensi Dasar. Semua Kompetensi Dasar dan proses pembelajaran dikembangkan untuk mencapai kompetensi yang dinyatakan dalam Kompetensi Inti.
+6. Di dalam Buku Guru juga diinformasikan mengenai Standar Kompetensi Lulusan (SKL), Kompetensi Inti (KI), dan Kompetensi Dasar pada mata pelajaran terkait. 
 
 ## Download Buku Guru Kelas XI SMA 
 Berikut ini adalah daftar **buku guru kelas XI Kurikulum 2013 Revisi** yang bisa anda unduh:

@@ -89,6 +89,31 @@ indikator dari berbagai mata pelajaran.
 ## Pertimbangan
 Buku Buku Guru Kelas 3 Tema 1 ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
+### Fungsi Buku Guru
+Buku guru sangatlah penting bagi kelangsungan pembelajaran baik itu dalam membuat perencanaan ataupun pelaksanaan pembelajaran. Fungsi buku guru antara lain:
+ 
+1. Sebagai Petunjuk Penggunaan Buku Siswa
+Informasi yang akan didapatkan guru dari Buku Guru adalah sebagai berikut.
+a. Karakteristik Kurikulum 2013, Kompetensi Inti, Kompetensi Dasar, dan Indikator Pencapaian Kompetensi Dasar Pembelajaran mata pelajaran terkait.
+b. Petunjuk Penggunaan Buku dan penjelasan bagian-bagian Buku Siswa.
+2. Sebagai Acuan Kegiatan Pembelajaran di kelas
+Buku Guru menyajikan hal-hal sebagai berikut.
+a. Menjelaskan tujuan pembelajaran yang harus dicapai.
+b. Menjelaskan langkah-langkah pembelajaran yang dilakukan dalam menyelenggarakan proses pembelajaran agar dapat membantu guru dalam menyusun rencana pelaksanaan pembelajaran dengan sistematis mengikuti langkah-langkah pembelajaran tersebut.
+c. Menjelaskan tentang teknik dan instrumen penilaian yang dapat digunakan dalam setiap pilihan pembelajaran yang mungkin memiliki karakteristik tertentu.
+3. Penjelasan tentang metode dan teknik yang digunakan dalam proses pembelajaran.
+
+### Karakteristik Buku Guru
+Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
+
+1. Mengembangkan keseimbangan antara sikap spiritual dan sosial, pengetahuan, dan keterampilan, serta menerapkannya dalam berbagai situasi di sekolah dan masyarakat.
+2. Menempatkan sekolah sebagai bagian dari masyarakat yang memberikan pengalaman belajar agar siswa mampu menerapkan apa yang dipelajari di sekolah ke masyarakat dan memanfaatkan masyarakat dan lingkungan sebagai sumber belajar.
+3. Memberi waktu yang cukup leluasa untuk mengembangkan berbagai sikap, pengetahuan, dan keterampilan.
+4. Mengembangkan kompetensi yang dinyatakan dalam bentuk Kompetensi Inti yang dirinci lebih lanjut dalam Kompetensi Dasar mata pelajaran.
+5. Mengembangkan Kompetensi Inti menjadi unsur pengorganisasi (organizing elements) Kompetensi Dasar. Semua Kompetensi Dasar dan proses pembelajaran dikembangkan untuk mencapai kompetensi yang dinyatakan dalam Kompetensi Inti.
+6. Di dalam Buku Guru juga diinformasikan mengenai Standar Kompetensi Lulusan (SKL), Kompetensi Inti (KI), dan Kompetensi Dasar pada mata pelajaran terkait. 
+
+
 ## Download Buku Guru Kelas 3 Tema 1 Pertumbuhan dan Perkembangan Makhluk Hidup Revisi 2018
 Buku Kurtilas Buku Guru Kelas 3 Tema 1 Revisi 2018 ini dapat anda unduh atau baca melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1WdN5vrgoPl8C2xSbthSTceeQmdzqw7_J" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1WdN5vrgoPl8C2xSbthSTceeQmdzqw7_J/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>

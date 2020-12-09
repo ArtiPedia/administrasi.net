@@ -5,8 +5,6 @@ description: Download Buku siswa kelas 1 tema 1 Diriku, buku paket tematik kurik
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-1,tematik,revisi-2017,download]
 published: true
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -71,7 +69,7 @@ Penulis|Yusfina Hendrifiana, Panca Ariguntar, dan Lubna Assagaf.|
 
 Buku siswa <b>kelas 1 semester 1 Tema 1</b> ini berisi sebagai berikut.
 1. Buku Siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan siswa dalam melaksanakan aktivitas pembelajaran di kelas.
-2. Buku siswa dilengkapi dengan gambar dan warna untuk menstimulasi imajinasi dan minat siswa.
+2. **Buku Siswa** dilengkapi dengan gambar dan warna untuk menstimulasi imajinasi dan minat siswa.
 3. Struktur penulisan buku semaksimal mungkin diusahakan memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Berdiskusi, Ayo Membaca, Ayo Menulis, Ayo Mengamati, Ayo Mencoba, Ayo Berlatih, Ayo Bernyanyi, Ayo Renungkan, dan Kerja Sama dengan Orang Tua.
 7. Buku ini dapat digunakan oleh orang tua secara mandiri untuk mendukung aktivitas belajar siswa di rumah.
 8. Halaman ini berisi materi yang akan dipelajari, aktivitas belajar yang dilakukan anak bersama orang tua di rumah, serta saran agar anak dan orang tua bisa belajar dari lingkungan. Orang tua diharapkan berdiskusi dan terlibat dalam aktivitas belajar siswa. Saran-saran untuk kegiatan bersama antara siswa dan orang tua dicantumkan juga pada setiap akhir pembelajaran. 
@@ -80,7 +78,7 @@ Buku siswa <b>kelas 1 semester 1 Tema 1</b> ini berisi sebagai berikut.
 <ol><li>Membuka pelajaran yang menarik perhatian peserta didik seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah, dan sebagainya.</li><li>Menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan).</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari.</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep.</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi.</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari.</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol>
   
 ## Pertimbangan
-Buku Buku Siswa Kelas 1 Tema Diriku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
+**Buku Siswa Kelas 1 Tema Diriku** ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
 
 ## Download Buku Siswa Kelas 1 Tema Diriku

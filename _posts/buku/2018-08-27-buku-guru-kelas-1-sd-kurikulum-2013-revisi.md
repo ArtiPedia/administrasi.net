@@ -24,6 +24,45 @@ last_modified_date: 2020-11-10T13:26:02.995Z
 
 Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana BSE merupakan buku teks pelajaran yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
 
+Buku Guru dan Buku Siswa merupakah salah satu sarana penting dalam implementasi Kurikulum 2013.
+
+Buku Guru menjadi panduan bagi guru untuk melaksanakan pembelajaran di kelas. Buku guru telah disiapkan oleh pemerintah sesuai dengan Peraturan Menteri Pendidikan dan Kebudayaan Nomor 71 Tahun 2013 tentang Buku Teks Pelajaran dan Buku Panduan Guru.
+
+### Fungsi Buku Guru
+Buku guru sangatlah penting bagi kelangsungan pembelajaran baik itu dalam membuat perencanaan ataupun pelaksanaan pembelajaran. Fungsi buku guru antara lain:
+ 
+1. Sebagai Petunjuk Penggunaan Buku Siswa
+Informasi yang akan didapatkan guru dari Buku Guru adalah sebagai berikut.
+a. Karakteristik Kurikulum 2013, Kompetensi Inti, Kompetensi Dasar, dan Indikator Pencapaian Kompetensi Dasar Pembelajaran mata pelajaran terkait.
+b. Petunjuk Penggunaan Buku dan penjelasan bagian-bagian Buku Siswa.
+2. Sebagai Acuan Kegiatan Pembelajaran di kelas
+Buku Guru menyajikan hal-hal sebagai berikut.
+a. Menjelaskan tujuan pembelajaran yang harus dicapai.
+b. Menjelaskan langkah-langkah pembelajaran yang dilakukan dalam menyelenggarakan proses pembelajaran agar dapat membantu guru dalam menyusun rencana pelaksanaan pembelajaran dengan sistematis mengikuti langkah-langkah pembelajaran tersebut.
+c. Menjelaskan tentang teknik dan instrumen penilaian yang dapat digunakan dalam setiap pilihan pembelajaran yang mungkin memiliki karakteristik tertentu.
+3. Penjelasan tentang metode dan teknik yang digunakan dalam proses pembelajaran.
+
+### Karakteristik Buku Guru
+Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
+
+1. Mengembangkan keseimbangan antara sikap spiritual dan sosial, pengetahuan, dan keterampilan, serta menerapkannya dalam berbagai situasi di sekolah dan masyarakat.
+2. Menempatkan sekolah sebagai bagian dari masyarakat yang memberikan pengalaman belajar agar siswa mampu menerapkan apa yang dipelajari di sekolah ke masyarakat dan memanfaatkan masyarakat dan lingkungan sebagai sumber belajar.
+3. Memberi waktu yang cukup leluasa untuk mengembangkan berbagai sikap, pengetahuan, dan keterampilan.
+4. Mengembangkan kompetensi yang dinyatakan dalam bentuk Kompetensi Inti yang dirinci lebih lanjut dalam Kompetensi Dasar mata pelajaran.
+5. Mengembangkan Kompetensi Inti menjadi unsur pengorganisasi (organizing elements) Kompetensi Dasar. Semua Kompetensi Dasar dan proses pembelajaran dikembangkan untuk mencapai kompetensi yang dinyatakan dalam Kompetensi Inti.
+6. Di dalam Buku Guru juga diinformasikan mengenai Standar Kompetensi Lulusan (SKL), Kompetensi Inti (KI), dan Kompetensi Dasar pada mata pelajaran terkait. 
+
+## Buku Guru Kelas 1
+**Kelas 1 SD** terdiri dari delapan tema dan setiap tema terdiri dari beberapa subtema. 
+1. Tema 1 Diriku
+2. Tema 2 Kegemaranku
+3. Tema 3 Kegiatanku
+4. Tema 4 Keluargaku
+5. Tema 5 Pengalamanku
+6. Tema 6 Lingkungan Sehat, Bersih, dan Asri
+7. Tema 7 Benda Hewan dan Tumbuhan Di Sekitarku
+8. Tema 8 Peristiwa Alam
+
 ## Download Buku Guru Kelas 1 SD/Mi Revisi 2017
 Berikut ini adalah daftar **buku guru kelas 1** yang bisa anda unduh:
 

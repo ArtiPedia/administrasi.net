@@ -11,8 +11,6 @@ tags:
   - revisi-2017
   - download
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -83,6 +81,7 @@ Penulis|Heny Kusumawati|
 3. Usaha Pelestarian Lingkungan
 4. Kegiatan Berbasis Proyek dan Literasi
 
+### Fungsi Buku Siswa
 <b>Buku siswa kelas 5 semester 2 Tema 8</b> ini berisi sebagai berikut.
 1. Buku Siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 2. Buku Siswa dilengkapi dengan penjelasan lebih rinci tentang isi dan penggunaan buku sebagaimana dituangkan dalam Buku Guru.

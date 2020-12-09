@@ -5,8 +5,6 @@ description: Download Buku siswa kelas 3 tema 1 Pertumbuhan dan Perkembangan Mak
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik,download]
 published: true
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -71,7 +69,7 @@ Penulis|Sonya Sinyanyuri dan Lubna Assagaf|
 
 Buku siswa <b>kelas 3 semester 1 Tema Pertumbuhan dan Perkembangan Makhluk Hidup</b> berisi sebagai berikut.
 1. Buku Siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan siswa dalam melaksanakan aktivitas pembelajaran di kelas.
-2. Buku siswa dilengkapi dengan gambar dan warna untuk menstimulasi imajinasi dan minat siswa.
+2. **Buku siswa** dilengkapi dengan gambar dan warna untuk menstimulasi imajinasi dan minat siswa.
 3. Struktur penulisan buku semaksimal mungkin diusahakan memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul Ayo Berdiskusi, Ayo Membaca, Ayo Menulis, Ayo Mengamati, Ayo Mencoba, Ayo Berlatih, Ayo Bernyanyi, Ayo Renungkan, dan Kerja Sama dengan Orang Tua.
 7. Buku ini dapat digunakan oleh orang tua secara mandiri untuk mendukung aktivitas belajar siswa di rumah.
 8. Halaman ini berisi materi yang akan dipelajari, aktivitas belajar yang dilakukan anak bersama orang tua di rumah, serta saran agar anak dan orang tua bisa belajar dari lingkungan. Orang tua diharapkan berdiskusi dan terlibat dalam aktivitas belajar siswa. Saran-saran untuk kegiatan bersama antara siswa dan orang tua dicantumkan juga pada setiap akhir pembelajaran. 
