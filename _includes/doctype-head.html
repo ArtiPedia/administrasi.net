@@ -96,10 +96,6 @@
         ]
   },
  "url": "{{ site.url }}{{ page.url }}",
-   "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ site.url }}{{ page.url }}"
-  },
  "datePublished": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
  "dateCreated": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
  "dateModified": "{% if page.description %}{{ page.date | date_to_xmlschema }}{% else %}{{ page.last_modified_date | date_to_xmlschema }}{% endif %}",
@@ -139,15 +135,16 @@
             "url": "{{site.url}}"
         }, {
             "@id": "#creator",
-            "@type": "Organization"
-        }, "address": {
+            "@type": "Organization",
+              "address": {
   "@type": "PostalAddress",
   "streetAddress": "Jl. Sindangsari Raya",
   "addressLocality": "Ciamis",
   "addressRegion": "JB",
   "postalCode": "46261",
   "addressCountry": "ID"
-},{
+}
+        },{
             "@type": "BreadcrumbList",
             "description": "Breadcrumbs list",
             "itemListElement": [{
