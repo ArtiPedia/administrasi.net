@@ -1,7 +1,7 @@
 ---
-title: Buku Tematik Kelas 3 Kurikulum 2013 Revisi 2018
+title: Buku Tematik Kelas 3 SD/MI/SLB Kurikulum 2013 Revisi 2018
 description: >-
-  Buku Tematik Terpadu SD/Mi Kelas 3 Kurikulum 2013 Revisi 2018 terdiri dari buku guru dan buku siswa kelas 3 sd/mi.
+  Buku Tematik Terpadu SD/Mi/SLB Kelas 3 Kurikulum 2013 Revisi 2018 terdiri dari buku guru dan buku siswa kelas 3 sd/mi/slb.
 date: 2019-10-08T06:23:38.962Z
 tags:
   - buku
@@ -28,10 +28,10 @@ Diharapkan dengan tersedianya *Buku Sekolah Digital* ini, serta menyimpannya di 
 ## Download Buku Kelas 3 SD Revisi 2018
 Berikut ini adalah daftar [Buku Tematik Terpadu Kelas 3 Kurikulum 2013 Revisi 2018](/bse/buku-tematik-sd-mi-kelas-3-kurikulum-2013 "Buku Tematik Kelas 3 SD Terpadu Kurikulum 2013 Revisi 2018")
 
-<ol class="arti">{% for post in site.tags.kelas-3 %} {% if post.tags contains "sd" %}
+<ol class="arti">{% for post in site.tags.kelas-3 %} 
 <li class="{% if page.title == post.title %}current{% endif %}">
 <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
-</li>{% endif %}
+</li>
 {% endfor %}
 </ol>
 

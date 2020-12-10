@@ -1,8 +1,8 @@
 ---
-title: Buku Paket Tematik Kelas 6 Kurikulum 2013 Revisi 2018
+title: Buku Paket Tematik Kelas 6 SD/MI/SLB Kurikulum 2013 Revisi 2018
 description: >-
-  Buku Tematik Terpadu SD/Mi Kelas 6 Kurikulum 2013 Revisi 2018, buku guru dan
-  buku siswa kelas 6 SD Kurtilas Revisi Terbaru.
+  Buku Tematik Terpadu SD/Mi/SLB Kelas 6 Kurikulum 2013 Revisi 2018, buku guru dan
+  buku siswa kelas 6 SD/MI/SLB Kurtilas Revisi Terbaru.
 date: 2019-10-08T13:49:09.000Z
 tags:
   - buku

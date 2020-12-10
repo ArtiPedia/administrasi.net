@@ -18,13 +18,21 @@ tags:
   - tematik
   - download
 ---
-* TOC
-{:toc}
 
 ## Pendahuluan
 **Buku Siswa** sangat diperlukan untuk kelancaran dalam pelaksanaan kegiatan pembelajaran. Saat ini buku memiliki peran penting terlebih lagi kurikulum yang sekarang ini digunakan telah diganti menjadi **kurikulum 2013**. 
 
 Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana BSE merupakan **buku teks pelajaran** yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
+
+### Fungsi Buku Siswa
+1. Panduan bagi Siswa dalam Melaksanakan Kegiatan-Kegiatan Pembelajaran
+2. Penghubung antar Guru, Sekolah dan Orang Tua
+3. Lembar Kerja Siswa 
+4. Skenario Langkah-langkah Pembelajaran
+5. Siswa yang dapat Dimanfaatkan dalam Penilaian
+6. Media Komunikasi antara Guru dan Siswa
+7. Sebagai Kenang-kenangan Rekam Jejak Belajar Siswa
+
 
 ## Download Buku Siswa Kelas 1 SD Revisi 2017
 Berikut ini adalah daftar **buku siswa kelas 1** yang bisa anda unduh:
