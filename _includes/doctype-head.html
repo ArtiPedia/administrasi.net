@@ -186,4 +186,7 @@
     enable_page_level_ads: true
   });
 </script>
+{% if site.gtag-manager %}
+    {% include analytics.html %}
+    {% endif %}
 </head>
