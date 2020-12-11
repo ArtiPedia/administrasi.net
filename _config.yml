@@ -241,6 +241,7 @@ plugins:
   - amp-jekyll
   - jekyll-paginate
   - jekyll-toc
+  - jekyll-redirect-from
   
 toc:
   min_level: 1

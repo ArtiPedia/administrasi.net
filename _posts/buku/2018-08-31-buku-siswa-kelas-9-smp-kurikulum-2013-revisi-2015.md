@@ -16,7 +16,7 @@ last_modified_date: 2020-12-10T06:21:19.939Z
 ---
 
 
-### Pendahuluan
+## Pendahuluan
 [Administrasi.Net](/ "Administrasi.Net") - Keberadaan **Buku Siswa Kelas 9** sangatlah penting dalam mengimplementasikan **Kurikulum 2013**. Dalam buku ini, siswa diajak untuk aktif dalam pembelaran.
 
 **Buku Panduan Siswa** pada **Kurikulum 2013** memiliki dua fungsi, yaitu sebagai petunjuk penggunaan Buku Siswa dan sebagai acuan kegiatan pembelajaran di kelas. Sedangkan Buku Pembelajaran Siswa Buku siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
@@ -26,6 +26,13 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 {% include ads-artikel.html %}
 
 Buku Siswa Kurikulum 2013 kelas 9 (IX) <abbr title="Sekolah Menengah Pertama">SMP</abbr> untuk memudahkan para guru dalam melaksanakan pembelajaran
+
+### Fungsi Buku Siswa
+1. **Buku Siswa** digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. Buku Siswa juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (*activities based learning*) di kelas.
+3. Buku Siswa dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. Buku Siswa diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+
 
 ### Download Buku Siswa Kelas IX <abbr title="Sekolah Menengah Pertama">SMP</abbr> Kurikulum 2013 Revisi 2015
 Berikut ini kumpulan [buku siswa kelas 9 SMP revisi 2015](/bse/buku-siswa-kelas-9-smp-kurikulum-2013-revisi-2015 "Buku Siswa kelas 9 SMP Kurikulum 2013 edisi revisi 2015"):

@@ -10,6 +10,7 @@ tags:
   - tematik
   - revisi-2017
   - download
+  - sd
 ---
 
 <script type="application/ld+json">

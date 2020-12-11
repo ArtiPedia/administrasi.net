@@ -18,14 +18,11 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 
 **Buku Siswa Kurikulum 2013 kelas 2 <abbr title="Sekolah Dasar">SD</abbr> Revisi 2017** tidak dilengkapi dengan lembar latihan. Guru juga dapat berkreasi sendiri membuat soal-soal latihan dan bahan-bahan penilaian yang disesuaikan dengan kondisi peserta didik.
 
-Buku Siswa digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
-
-Buku Siswa juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
-
-Buku Siswa dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
-
-Buku Siswa diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
-
+## Fungsi Buku Siswa
+1. **Buku Siswa** digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. Buku Siswa juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (*activities based learning*) di kelas.
+3. Buku Siswa dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. Buku Siswa diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
 
 ## Download Buku Siswa Kelas 2 SD Kurikulum 2013 Revisi 2017
 Berikut ini kumpulan [buku siswa kelas 2 sd revisi 2017](/bse/buku-siswa-kelas-2-sd-kurikulum-2013-revisi-2017 "Buku Siswa kelas 2 SD Kurikulum 2013 edisi revisi 2017"):

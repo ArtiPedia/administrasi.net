@@ -5,8 +5,6 @@ description: Download Buku siswa kelas 3 Tema 4 Kewajiban dan Hakku Revisi 2018,
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-3,revisi-2018,tematik,download]
 published: true
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -81,7 +79,14 @@ Buku siswa <b>kelas 3 semester 1 Tema 4</b> ini berisi sebagai berikut.
   
 ## Pertimbangan
 Buku siswa Kurtilas Tema Kewajiban dan Hakku kelas 4 ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
- 
+
+### Fungsi Buku Siswa
+1. **Buku Siswa** digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. Buku Siswa juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (*activities based learning*) di kelas.
+3. Buku Siswa dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. Buku Siswa diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+
+
 ## Download Buku Sisa Kelas 3 Tema 4
 **Download Buku siswa Kurtilas Tema Kewajiban dan Hakku kelas 4 Revisi 2018** ini dapat anda unduh atau baca melalui tombol dibawah:
 <p class="center"><a class="button download" href="https://docs.google.com/uc?export=download&id=1fKw1xlS-_5zEBQu_eI63fB1EA4sFz09j" rel="nofollow" target="_blank" title="Download">Download</a><a class="button demo open-dialog" href="https://drive.google.com/file/d/1fKw1xlS-_5zEBQu_eI63fB1EA4sFz09j/preview" Title="Baca Online" rel="nofollow">Baca Online</a></p>
