@@ -214,3 +214,15 @@ a, a:hover {
     content: "\e197";
     background: #1d1c1c;
 }
+a.butedit:hover {
+    background: #4aa29f;
+}
+a.butedit {
+    display: list-item;
+    margin-top: 10px;
+    padding: 5px 7px;
+    background: #333333;
+    border-radius: 3px;
+    color: #fff;
+    text-align: center;
+}
