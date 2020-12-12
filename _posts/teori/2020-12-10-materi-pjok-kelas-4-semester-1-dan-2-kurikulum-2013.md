@@ -10,11 +10,13 @@ tags:
   - materi
   - pjok
   - sd
+  
 ---
 [Administrasi.Net](https://administrasi.net "Administrasi.Net") menyajikan **Materi PJOK Kelas 4 Kurikulum 2013 Revisi** untuk sekolah dasar khususnya kelas 4 untuk mata pelajaran pendidikan jasmani olahraga dan kesehatan berdasarkan kurikulum 2013 hasil revisi terbaru 2019. 
 
 Materi yang dibagikan adalah materi dalam bentuk file pdf yang bisa di download sesuai bab yang dipelajari di sekolah saat ini. Dengan adanya materi berdasarkan masing-masing bab ini kami berharap sahabat Administrasi.Net akan lebih mudah untuk belajar dimana saja dan kapan saja.
 
+### Semester 1
 <ol>
 <li><b>Bab I Variasi Gerak Dasar Lokomotor, Nonlokomotor, dan Manipulatif dalam Permainan Bola Besar (<i><a href="https://docs.google.com/uc?id=1pJwfTdfDKyrl3THK-GbtnIK9tlUPouF6&amp;export=download&amp;hl=id">Download</a></i>)</b><br />
 Variasi Gerak Dasar dalam Permainan Sepak Bola<br />
@@ -38,8 +40,8 @@ Latihan Kekuatan<br />
 Latihan Kelenturan<br />
 Latihan Kecepatan dan Kelincahan</li>
 </ol>
-<h4>
-SEMESTER II</h4>
+
+### Semester 2
 <ol>
 <li><b>Bab VI Variasi Berbagai Pola Gerak dalam Aktivitas Senam Lantai (<i><a href="https://docs.google.com/uc?id=18A8TsRDBn-4HOHAiAw3ZyWlK_y4xa4Rz&amp;export=download&amp;hl=id">Download</a></i>)</b><br />
 Variasi Pola Gerak Senam Lantai tanpa Alat<br />
