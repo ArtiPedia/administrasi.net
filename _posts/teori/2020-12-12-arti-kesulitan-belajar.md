@@ -4,8 +4,6 @@ date: "2020-12-12 12:41:47"
 description: Kesulitan belajar merupakan hambatan yang dialami oleh siswa dalam proses belajar yang menyebabkan siswa mendapatkan hasil yang kurang optimal dalam proses belajarnya.
 tags: [referensi,kesulitan-belajar,abk]
 ---
-* TOC
-{:toc}
 
 ## Anak dengan Kesulitan Belajar atau Berprestasi Rendah
 [Administrasi.net](/ "Administrasi.net") - Anak yang berprestasi rendah (*underachievers*) pada umumnya tidak mampu menguasai bidang studi tertentu yang diprogramkan oleh guru berdasarkan kurikulum sekolah yang berlaku. Sebagian dari mereka mempunyai nilai pelajaran sangat rendah ditandai pula dengan tes IQ berada di bawah re-rata normal atau sering disebut pula *slow learners*. Rendahnya prestasi [belajar](/teori/arti-teori-belajar "teori belajar") mereka umumnya disebabkan oleh faktor minimal *brain dysfungction*, *dyslexia*, *perceptual disability*. Istilah lainnya yang digunakan di Amerika serikat anak yang berprestasi rendah disebut dengan *[Specific Learning Disability](https://en.wikipedia.org/wiki/Learning_disability)*.
