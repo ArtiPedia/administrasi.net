@@ -13,6 +13,13 @@ published: true
 
 Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program BSE (Buku Sekolah Elektronik) dimana BSE merupakan buku teks pelajaran yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
 
+### Fungsi Buku Siswa Kelas 12
+1. **Buku Siswa**  digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa**  juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+
+
 ## Download Buku Siswa Kelas 12 (XII) Kurikulum 2013
 Berikut ini adalah daftar buku siswa kelas XII Kurikulum 2013 yang bisa anda unduh:
 

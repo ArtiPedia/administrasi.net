@@ -5,8 +5,6 @@ description: Download Buku Siswa Kelas 6 Tema 2 Persatuan dalam Perbedaan Revisi
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik,download]
 published: true
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -75,6 +73,12 @@ Buku Siswa <b>kelas 6 semester 1 Tema 2</b> ini berisi sebagai berikut.
 3. Struktur penulisan buku semaksimal mungkin diusahakan memfasilitasi pengalaman belajar bermakna yang diterjemahkan melalui subjudul 4. Ayo Berdiskusi, Ayo Membaca, Ayo Menulis, Ayo Mengamati, Ayo Mencoba, Ayo Berlatih, Ayo Bernyanyi, Ayo Renungkan, dan Kerja Sama dengan Orang Tua.
 5. Buku siswa dapat digunakan oleh orang tua secara mandiri untuk mendukung aktivitas belajar siswa di rumah.
 6. Buku berisi materi yang akan dipelajari, aktivitas belajar yang dilakukan anak bersama orang tua di rumah, serta saran agar anak dan orang tua bisa belajar dari lingkungan. Orang tua diharapkan berdiskusi dan terlibat dalam aktivitas belajar siswa. Saran-saran untuk kegiatan bersama antara siswa dan orang tua dicantumkan juga pada setiap akhir pembelajaran.
+
+### Fungsi Buku Siswa Kelas 6 SD
+1. **Buku Siswa**  digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa**  juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
 
 <b>Kegiatan pembelajaran</b> di <b>buku</b> ini didesain untuk mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan) peserta didik melalui aktivitas yang bervariasi sebagai berikut.
 <ol><li>Membuka pelajaran yang menarik perhatian peserta didik seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah, dan sebagainya.</li><li>Menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan).</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari.</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep.</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi.</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari.</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol>

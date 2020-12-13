@@ -38,6 +38,13 @@ Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
 5. Mengembangkan Kompetensi Inti menjadi unsur pengorganisasi (organizing elements) Kompetensi Dasar. Semua Kompetensi Dasar dan proses pembelajaran dikembangkan untuk mencapai kompetensi yang dinyatakan dalam Kompetensi Inti.
 6. Di dalam Buku Guru juga diinformasikan mengenai Standar Kompetensi Lulusan (SKL), Kompetensi Inti (KI), dan Kompetensi Dasar pada mata pelajaran terkait. 
 
+### Fungsi Buku Siswa 
+1. **Buku Siswa**  digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa**  juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+
+
 ## Download Buku Kurikulum 2013 Revisi 2018
 Berikut ini adalah daftar [Buku Kurikulum 2013 Revisi 2018](/bse/daftar-buku-guru-siswa-sd-smp-sma-kurikulum-2013-revisi-2018 "Buku Guru dan Siswa SD, SMP, SMA Kurikulum 2013 Revisi 2018") terdiri dari buku guru dan buku siswa yang bisa anda unduh di bawah ini:
 

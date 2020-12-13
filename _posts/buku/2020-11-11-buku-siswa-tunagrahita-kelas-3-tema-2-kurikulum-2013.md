@@ -17,10 +17,9 @@ tags:
   - tematik
   - download
 ---
-* TOC
-{:toc}
 
-**Buku siswa Kelas 3 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> Tema 2** ini diperuntukkan bagi siswa tunagrahita sebagai penunjang pembelajaran.
+
+**Buku siswa Kelas 3 <abbr title="Sekolah Dasar Luar Biasa">SDLB</abbr> C Tema 2** ini diperuntukkan bagi siswa tunagrahita sebagai penunjang pembelajaran.
 
 [Anak tunagrahita](/teori/tunagrahita) memiliki kecerdasan di bawah rata-rata anak normal pada umumnya, sehingga keberadaan **buku paket tematik** ini sangatlah berguna bagi guru sebagai panduan dalam menyusun program pembelajaran.
 
@@ -44,6 +43,13 @@ Bagi anda guru yang mengajar atau siswa yang duduk di **kelas 3 C (Tunagrahita)*
 |Jumlah Halaman|N/A|
 |Kurikulum|<strong>2013</strong>|
 |ISBN|<strong>N/A</strong>|
+
+### Fungsi Buku Siswa Kelas 3 SDLB C
+1. **Buku Siswa**  digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa**  juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+
 
 ## Pertimbangan
 **Buku Siswa Tunagrahita Kelas 3 Tema 2** ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.

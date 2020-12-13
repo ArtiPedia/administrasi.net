@@ -5,8 +5,6 @@ description: Unduh Buku Siswa kelas 6 Tema 1 Selamatkan Makhluk Hidup Revisi 201
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik,download]
 published: true
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -80,6 +78,12 @@ Penulis|Angi St Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mift
 <ol><li>Membuka pelajaran yang menarik perhatian peserta didik seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah, dan sebagainya.</li><li>Menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan).</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari.</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep.</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi.</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari.</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol>
   
 ## Pertimbangan
+### Fungsi Buku Siswa Kelas 1 SD
+1. **Buku Siswa**  digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa**  juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
 Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.

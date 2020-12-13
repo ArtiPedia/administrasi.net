@@ -5,8 +5,6 @@ description: Buku Siswa kelas 6 Tema 5 Wirausaha Revisi 2018 merupakan buku pake
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-6,revisi-2018,tematik,download]
 published: true
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -41,7 +39,7 @@ published: true
     }
  
 </script>
-[Administrasi.Net](/ "Administrasi.Net") - **Buku Siswa Kelas 6 Tema 5 Wirausaha Revisi 20**, memiliki peran penting dalam **implementasi Kurikulum 2013**. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <acronym title="Sekolah Dasar">SD</acronym> semester 1 (satu) Tema 5 (wirausaha) ini merupakan buku paket tematik sebagai sumber belajar bagi Siswa. Buku dengan jumlah halaman sebanyak 210 halaman ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Siswa Kelas 6 Tema 5 Wirausaha Revisi 20**, memiliki peran penting dalam **implementasi Kurikulum 2013**. Buku Paket Kurtilas, Buku Tematik siswa Kelas 6 <abbr  title="Sekolah Dasar">SD</abbr > semester 1 (satu) Tema 5 (wirausaha) ini merupakan buku paket tematik sebagai sumber belajar bagi Siswa. Buku dengan jumlah halaman sebanyak 210 halaman ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mifthachul Khasanah, dan Santi Hendriyeti, serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud pada tahun 2018. 
 
 Buku ini disusun agar siswa dalam melaksanakan kegiatan pembelajaran dapat membangun sikap dan perilaku yang positif, menguasai konsep, berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas, dan pribadi reflektif.
 
@@ -73,6 +71,12 @@ Penulis|Angi St. Anggari, Afriki, Dara Retno Wulan, Nuniek Puspitawati, Lely Mif
 <b>Kegiatan pembelajaran</b> di <b>buku</b> ini didesain untuk mengembangkan kompetensi (*sikap, pengetahuan, dan keterampilan*) peserta didik melalui aktivitas yang bervariasi sebagai berikut.
 <ol><li>Membuka pelajaran yang menarik perhatian peserta didik seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah, dan sebagainya.</li><li>Menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan).</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari.</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep.</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi.</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari.</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol>
   
+### Fungsi Buku Siswa Kelas 6
+1. **Buku Siswa**  digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa**  juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+
 ### Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 

@@ -5,7 +5,6 @@ date: 2018-08-27 20:49:09
 title: Download Buku Siswa Kelas 1 Kurikulum 2013 Revisi 2017
 description: Download kumpulan Buku Siswa Kelas 1 SD Revisi 2017, Download buku
   tematik SD Kelas I Kurikulum 2013.
-image: ""
 last_modified_date: 2020-11-10T13:28:43.486Z
 tags:
   - buku
@@ -24,14 +23,11 @@ tags:
 
 Di era digital ini, untuk mendukung program kurikulum 2013 Pemerintah juga menyelenggarakan program **BSE (Buku Sekolah Elektronik)** dimana BSE merupakan **buku teks pelajaran** yang disediakan secara gratis dan dapat diunduh (download) serta disebar luaskan tanpa pelanggaran hak cipta. 
 
-### Fungsi Buku Siswa
-1. Panduan bagi Siswa dalam Melaksanakan Kegiatan-Kegiatan Pembelajaran
-2. Penghubung antar Guru, Sekolah dan Orang Tua
-3. Lembar Kerja Siswa 
-4. Skenario Langkah-langkah Pembelajaran
-5. Siswa yang dapat Dimanfaatkan dalam Penilaian
-6. Media Komunikasi antara Guru dan Siswa
-7. Sebagai Kenang-kenangan Rekam Jejak Belajar Siswa
+### Fungsi Buku Siswa Kelas 1 SD
+1. **Buku Siswa**  digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa**  juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
 
 
 ## Download Buku Siswa Kelas 1 SD Revisi 2017

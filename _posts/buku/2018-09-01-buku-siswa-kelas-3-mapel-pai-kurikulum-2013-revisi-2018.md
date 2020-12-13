@@ -5,8 +5,7 @@ description: Buku Siswa kelas 3 SD Mata pelajaran PAI Revisi 2018 merupakan buku
 tags: [buku,pendidikan,sd,siswa,buku-siswa,revisi-2018,kelas-3,mapel,download]
 published: true
 ---
-* TOC
-{:toc}
+
 
 <script type="application/ld+json">
 {
@@ -42,7 +41,7 @@ published: true
  
 </script>
 
-[Administrasi.Net](/ "Administrasi.Net") - **Buku Siswa Kelas 3** <acronym title="Sekolah Dasar">SD</acronym> Mata Pelajaran <acronym title="Pendidikan Agama Islam">PAI</acronym> ini merupakan buku paket mata yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Achmad Hasim dan M. Kholid Fathoni serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Siswa Kelas 3** <abbr title="Sekolah Dasar">SD</abbr> Mata Pelajaran <abbr title="Pendidikan Agama Islam">PAI</abbr> ini merupakan buku paket mata yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Achmad Hasim dan M. Kholid Fathoni serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 {% include ads-artikel.html %}
 
@@ -76,6 +75,13 @@ Buku Siswa <b>kelas 3</b> mapel PAI terbagi menjadi 12 Pelajaran sebagai berikut
 #### Pelajaran 11 Zikir dan Doa Setelah Salat
 #### Pelajaran 12 Kisah Keteladanan Nabi Ibrahim as. dan Nabi Ismail as.
   
+### Fungsi Buku Siswa Kelas 3 SD
+1. **Buku Siswa**  digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa**  juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+
+
 ## Pertimbangan
 Buku ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk *proses pembelajaran atau bimbingan* baik di sekolah maupun di rumah.
 

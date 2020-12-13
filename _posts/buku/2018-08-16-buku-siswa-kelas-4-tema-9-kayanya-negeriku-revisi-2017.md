@@ -5,8 +5,6 @@ description: Download Buku Siswa Kelas 4 SD Tema 4 Kayanya Negeriku Revisi 2017 
 tags: [buku,pendidikan,sd,siswa,buku-siswa,kelas-4,revisi-2017,tematik,download]
 published: true
 ---
-* TOC
-{:toc}
 
 <script type="application/ld+json">
 {
@@ -42,9 +40,9 @@ published: true
  
 </script>
 
-Buku Paket Tematik bagi siswa Kelas 4 <acronym title="Sekolah Dasar">SD</acronym> semester 2 (genap) Tema 9 (Kayanya Negeriku) ini merupakan buku paket tematik yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 178 hal. ini merupakan buku cetakan **revisi 2017** dan disusun oleh Maryanto serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+Buku Paket Tematik bagi siswa Kelas 4 <abbr title="Sekolah Dasar">SD</abbr> semester 2 (genap) Tema 9 (Kayanya Negeriku) ini merupakan buku paket tematik yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 178 hal. ini merupakan buku cetakan **revisi 2017** dan disusun oleh Maryanto serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
-## Buku Guru Kelas IV Tema 9 Kayanya Negeriku
+## Buku Siswa Kelas IV Tema 9 Kayanya Negeriku
 
 |Uraian|Keterangan|
 | --- | --- |
@@ -62,9 +60,15 @@ Penulis|Maryanto|
 
 ### Subtema
 
-<b>Buku Siswa</b> <b>Kelas 4 Tema 9 Kayanya Negeriku <acronym title='Kurikulum 2013'>K13</acronym> Revisi 2017</b> terdiri dari 3 subtema antara lain: <ol><li>Kekayaan Sumber Energi di Indonesia</li><li>Pemanfaatan Kekayaan Alam di Indonesia</li><li>Pelestarian Sumber Daya Alam Indonesia</li><li>Karyaku Prestasiku</li></ol>
+<b>Buku Siswa</b> <b>Kelas 4 Tema 9 Kayanya Negeriku <abbr title='Kurikulum 2013'>K13</abbr> Revisi 2017</b> terdiri dari 3 subtema antara lain: <ol><li>Kekayaan Sumber Energi di Indonesia</li><li>Pemanfaatan Kekayaan Alam di Indonesia</li><li>Pelestarian Sumber Daya Alam Indonesia</li><li>Karyaku Prestasiku</li></ol>
 
-<p>Buku Siswa tema 9 <acronym title='Kurikulum 2013'>K13</acronym> ini disusun agar guru mendapat gambaran yang jelas dan rinci dalam setiap melaksanakan kegiatan pembelajaran di sekolah. Buku paket tema Kayanya Negeriku antara lain memuat:<ol><li>Jaringan tema yang memberi gambaran kepada guru tentang suatu tema yang melingkupi beberapa kompetensi dasar (KD) dari berbagai mata pelajaran;</li><li>Kegiatan pembelajaran tematik terpadu untuk menggambarkan kegiatan pembelajaran yang menyatu dan mengalir;</li><li>pengalaman belajar yang bermakna untuk membangun sikap dan perilaku positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas dan pribadi reflektif;</li><li>berbagai teknik penilaian peserta didik;</li><li>informasi yang menjadi acuan kegiatan remedial dan pengayaan; serta</li><li>Kegiatan interaksi guru dan orang tua, yang memberikan kesempatan kepada orang tua untuk ikut berpartisipasi aktif melalui kegiatan belajar peserta didik di rumah, dan petunjuk penggunaan buku peserta didik. </li></ol></p><p>Kegiatan pembelajaran di buku ini didesain untuk mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan) peserta didik melalui aktivitas yang bervariasi.</p><p>Aktivitas tersebut meliputi:<ol><li>Membuka pelajaran yang menarik perhatian peserta didik, seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah dan sebagainya;</li><li>menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan);</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari;</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep;</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi;</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari; serta</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol></p>
+<p>Buku Siswa tema 9 <abbr title='Kurikulum 2013'>K13</abbr> ini disusun agar guru mendapat gambaran yang jelas dan rinci dalam setiap melaksanakan kegiatan pembelajaran di sekolah. Buku paket tema Kayanya Negeriku antara lain memuat:<ol><li>Jaringan tema yang memberi gambaran kepada guru tentang suatu tema yang melingkupi beberapa kompetensi dasar (KD) dari berbagai mata pelajaran;</li><li>Kegiatan pembelajaran tematik terpadu untuk menggambarkan kegiatan pembelajaran yang menyatu dan mengalir;</li><li>pengalaman belajar yang bermakna untuk membangun sikap dan perilaku positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas dan pribadi reflektif;</li><li>berbagai teknik penilaian peserta didik;</li><li>informasi yang menjadi acuan kegiatan remedial dan pengayaan; serta</li><li>Kegiatan interaksi guru dan orang tua, yang memberikan kesempatan kepada orang tua untuk ikut berpartisipasi aktif melalui kegiatan belajar peserta didik di rumah, dan petunjuk penggunaan buku peserta didik. </li></ol></p><p>Kegiatan pembelajaran di buku ini didesain untuk mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan) peserta didik melalui aktivitas yang bervariasi.</p><p>Aktivitas tersebut meliputi:<ol><li>Membuka pelajaran yang menarik perhatian peserta didik, seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah dan sebagainya;</li><li>menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan);</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari;</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep;</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi;</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari; serta</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol></p>
+
+### Fungsi Buku Siswa Kelas 4
+1. **Buku Siswa**  digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa**  juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (activities based learning) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
 
 ## Pertimbangan
 **Buku paket kelas 4 tema 9** ini dipublikasikan di blog ini bermaksud hanya untuk membantu guru, siswa dan orang tua yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
