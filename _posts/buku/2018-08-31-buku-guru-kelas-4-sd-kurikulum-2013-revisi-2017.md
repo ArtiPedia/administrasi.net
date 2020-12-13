@@ -14,7 +14,7 @@ published: true
 
 **Buku Panduan Guru** pada **Kurikulum 2013** memiliki dua fungsi, yaitu sebagai petunjuk penggunaan Buku Siswa dan sebagai acuan kegiatan pembelajaran di kelas. Sedangkan Buku Pembelajaran Siswa Buku siswa merupakan buku panduan sekaligus buku aktivitas yang akan memudahkan para siswa terlibat aktif dalam pembelajaran.
 
-Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk memperoleh Buku Sekolah Elektronik (BSE) Kurikulum 2013. Buku Kurikulum 2013 untuk kelas 4 jenjang **Sekolah Dasar (SD)** bisa didownload secara gratis. Buku Kurikulum 2013 kelas 4 SD terdiri dari buku pegangan guru dan buku pelajaran bagi siswa.
+Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk memperoleh **Buku Sekolah Elektronik (BSE) Kurikulum 2013**. Buku Kurikulum 2013 untuk kelas 4 jenjang **Sekolah Dasar (SD)** bisa didownload secara gratis. Buku Kurikulum 2013 kelas 4 SD terdiri dari buku pegangan guru dan buku pelajaran bagi siswa.
 
 {% include ads-artikel.html %}
 
@@ -22,7 +22,7 @@ Kementerian Pendidikan dan Kebudayaan memberikan akses kepada masyarakat untuk m
 
 **Buku Guru kelas 4 <abbr title="Sekolah Dasar">SD</abbr> Kurikulum 2013 edisi revisi tahun 2017** kali ini tidak dilengkapi dengan lembar latihan. Guru juga dapat berkreasi sendiri membuat soal-soal latihan dan bahan-bahan penilaian yang disesuaikan dengan kondisi peserta didik.
 
-### Fungsi Buku Guru
+### Fungsi Buku Guru Kelas 4 SD
 1. Sebagai Petunjuk Penggunaan Buku Siswa
 Informasi yang akan didapatkan dari Buku Guru adalah sebagai berikut.
 a. Karakteristik Kurikulum 2013, Kompetensi Inti, Kompetensi Dasar, dan Indikator Pencapaian Kompetensi Dasar Pembelajaran mata pelajaran terkait.
@@ -34,9 +34,8 @@ b. Menjelaskan langkah-langkah pembelajaran yang dilakukan dalam menyelenggaraka
 c. Menjelaskan tentang teknik dan instrumen penilaian yang dapat digunakan dalam setiap pilihan pembelajaran yang mungkin memiliki karakteristik tertentu.
 3. Penjelasan tentang metode dan teknik yang digunakan dalam proses pembelajaran.
 
-### Karakteristik Buku Guru
-Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
-
+### Karakteristik Buku Guru Kelas 4 SD
+**Buku Guru kurikulum 2013** dirancang dengan karakteristik sebagai berikut.
 1. Mengembangkan keseimbangan antara sikap spiritual dan sosial, pengetahuan, dan keterampilan, serta menerapkannya dalam berbagai situasi di sekolah dan masyarakat.
 2. Menempatkan sekolah sebagai bagian dari masyarakat yang memberikan pengalaman belajar agar siswa mampu menerapkan apa yang dipelajari di sekolah ke masyarakat dan memanfaatkan masyarakat dan lingkungan sebagai sumber belajar.
 3. Memberi waktu yang cukup leluasa untuk mengembangkan berbagai sikap, pengetahuan, dan keterampilan.

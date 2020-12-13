@@ -80,11 +80,11 @@ Buku siswa <b>kelas 3 semester 1 Tema Pertumbuhan dan Perkembangan Makhluk Hidup
 ## Pertimbangan
 **Buku Siswa Kelas 3 Tema 1** ini dipublikasikan di blog ini bermaksud hanya untuk membantu _guru_, _siswa_ dan _orang tua_ yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 
-### Fungsi Buku Siswa
-1. **Buku Siswa** digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
-2. Buku Siswa juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (*activities based learning*) di kelas.
-3. Buku Siswa dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
-4. Buku Siswa diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+### Fungsi Buku Siswa Kelas 3
+1. **Buku Siswa Kelas 3** digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
+2. **Buku Siswa Kelas 3** juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (*activities based learning*) di kelas.
+3. **Buku Siswa Kelas 3** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa Kelas 3** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
 
 ## Download Buku Siswa Kelas 3 Tema 1
 **Buku Siswa Kelas 3 Tema 1 Kurtilas Revisi 2018** ini dapat anda unduh atau baca melalui tombol dibawah:

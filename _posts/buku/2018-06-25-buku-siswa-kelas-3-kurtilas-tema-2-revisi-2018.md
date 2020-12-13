@@ -41,7 +41,9 @@ published: true
  
 </script>
 
-[Administrasi.Net](/ "Administrasi.Net") - Buku Siswa Kelas 3 <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) tema 2 (Menyayangi Tumbuhan dan Hewan) ini merupakan **buku paket tematik** yang diperuntukkan bagi **siswa kelas 3**. Buku dengan jumlah halaman sebanyak 218 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Yanti Kurnianingsih, Sonya Sinyanyuri., dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+[Administrasi.Net](/ "Administrasi.Net") - **Buku Siswa Kelas 3** <abbr title="Sekolah Dasar">SD</abbr> semester 1 (satu) tema 2 (Menyayangi Tumbuhan dan Hewan) ini merupakan **buku paket tematik** yang diperuntukkan bagi **siswa kelas 3**. 
+
+Buku siswa dengan jumlah halaman sebanyak 218 hal. ini merupakan buku cetakan ke 2 (revisi 2018) dan disusun oleh Yanti Kurnianingsih, Sonya Sinyanyuri., dan Lubna Assagaf serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Siswa Kelas 3 Tema 2 Menyayangi Tumbuhan dan Hewan
 
@@ -83,9 +85,9 @@ Buku Buku Siswa Kelas 3 Tema 2 ini dipublikasikan di blog ini bermaksud hanya un
 
 ### Fungsi Buku Siswa
 1. **Buku Siswa** digunakan sebagai panduan aktivitas pembelajaran untuk memudahkan peserta didik dalam menguasai kompetensi tertentu.
-2. Buku Siswa juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (*activities based learning*) di kelas.
-3. Buku Siswa dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
-4. Buku Siswa diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
+2. **Buku Siswa** juga digunakan untuk melaksanakan kegiatan-kegiatan dalam proses pembelajaran (*activities based learning*) di kelas.
+3. **Buku Siswa** dirancang dan dilengkapi dengan contoh-contoh lembar kegiatan, agar peserta dapat mempelajari sesuatu yang relevan dengan kehidupan yang dialaminya.
+4. **Buku Siswa** diarahkan agar peserta didik lebih aktif dalam mengikuti proses pembelajaran melalui kegiatan mengamati, menanya, mencoba, menalar, berdiskusi serta meningkatkan kemampuan berkomunikasi baik antar teman maupun dengan gurunya.
 
 
 ## Download Buku Tema Menyayangi Tumbuhan dan Hewan

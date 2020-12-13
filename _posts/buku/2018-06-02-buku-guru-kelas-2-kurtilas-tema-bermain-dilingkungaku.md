@@ -1,7 +1,6 @@
 ---
 title: Buku Guru Kelas 2 Tema 2 Bermain dilingkunganku Kurikulum 2013
-description: Download Buku guru kelas 2 tema 2 Bermain dilingkunganku kurikulum
-  2013 revisi 2017 penunjang dalam melaksanakan pembelajaran di kelas.
+description: Download Buku guru kelas 2 tema 2 Bermain dilingkunganku kurikulum 2013 revisi 2017 penunjang dalam melaksanakan pembelajaran di kelas.
 image: /img/buku-guru-kelas-2-tema-2-bermain-dilingkunganku-kurikulum-2013.png
 last_modified_date: 2020-05-15T09:54:14.180Z
 tags:
@@ -51,7 +50,7 @@ tags:
  
 </script>
 
-**Buku Guru Kelas 2 Tema 2** menjadi salah satu prasyarat yang mau tidak mau harus tersedia dalam pelaksanaan pembelajaran, dimana melalui **buku paket** tersebut, guru dapat lebih mengembangkan ide/pemikiran dan acuan dalam mengajarkan suatu materi kepada siswa.
+**Buku Guru Kelas 2 Tema 2** menjadi salah satu prasyarat yang mau tidak mau harus tersedia dalam pelaksanaan pembelajaran, dimana melalui **buku paket** tersebut, **guru** dapat lebih mengembangkan ide/pemikiran dan acuan dalam mengajarkan suatu materi kepada siswa.
 
 Pada satuan pendidikan *sekolah dasar (SD)* saat ini menggunakan **kurikulum 2013** dimana dalam kurikulum tersebut bersifat tematik, artinya tiap mata pelajaran dileburkan ke dalam suatu tema. seperti halnya dalam **buku guru tema bermain dilingkunganku** yang disajikan pada halaman ini.
 
@@ -109,7 +108,7 @@ c. Menjelaskan tentang teknik dan instrumen penilaian yang dapat digunakan dalam
 3. Penjelasan tentang metode dan teknik yang digunakan dalam proses pembelajaran.
 
 ### Karakteristik Buku Guru
-Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
+**Buku Guru kurikulum 2013** dirancang dengan karakteristik sebagai berikut.
 
 1. Mengembangkan keseimbangan antara sikap spiritual dan sosial, pengetahuan, dan keterampilan, serta menerapkannya dalam berbagai situasi di sekolah dan masyarakat.
 2. Menempatkan sekolah sebagai bagian dari masyarakat yang memberikan pengalaman belajar agar siswa mampu menerapkan apa yang dipelajari di sekolah ke masyarakat dan memanfaatkan masyarakat dan lingkungan sebagai sumber belajar.
