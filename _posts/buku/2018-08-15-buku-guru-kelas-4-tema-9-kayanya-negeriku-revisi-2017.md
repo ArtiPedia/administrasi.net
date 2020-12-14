@@ -1,9 +1,20 @@
 ---
-title: "Buku Guru Kelas 4 Tema 9 Kayanya Negeriku Revisi 2017"
-date: "2018-08-15 20:49:09"
-description: Buku Guru Kelas 4 SD Tema 9 Kayanya Negeriku Revisi 2017 merupakan buku paket tematik kurikulum 2013 revisi 2018 terdiri dari beberapa tema.
-tags: [buku,pendidikan,sd,guru,buku-guru,kelas-4,revisi-2017,tematik,download]
+title: Buku Guru Kelas 4 Tema 9 Kayanya Negeriku Revisi 2017
+date: 2018-08-15 20:49:09
+description: "Download Buku Guru Kelas 4 SD Tema 9 Kayanya Negeriku Revisi 2017
+  buku paket tematik kurikulum 2013 "
+tags:
+  - buku
+  - pendidikan
+  - sd
+  - guru
+  - buku-guru
+  - kelas-4
+  - revisi-2017
+  - tematik
+  - download
 published: true
+last_modified_date: 2020-12-14T10:48:54.305Z
 ---
 
 <script type="application/ld+json">
@@ -40,7 +51,7 @@ published: true
  
 </script>
 
-**Buku Paket Tematik bagi guru Kelas 4** <abbr title="Sekolah Dasar">SD</abbr> **semester 2** (genap) **Tema 9 (Kayanya Negeriku)** ini merupakan buku paket tematik yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 hal. ini merupakan buku cetakan **revisi 2017** dan disusun oleh Maryanto serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
+**Buku Paket Tematik bagi guru Kelas 4** <abbr title="Sekolah Dasar">SD</abbr> **semester 2** (genap) **Tema 9 (Kayanya Negeriku)** ini merupakan **buku paket tematik** yang diperuntukkan bagi guru sebagai penunjang pembelajaran. Buku dengan jumlah halaman sebanyak 176 hal. ini merupakan buku cetakan **revisi 2017** dan disusun oleh Maryanto serta diterbitkan oleh Pusat Kurikulum dan Perbukuan, Balitbang, Kemendikbud. 
 
 ## Buku Guru Kelas IV Tema 9 Kayanya Negeriku
 
@@ -64,11 +75,11 @@ Penulis|Maryanto|
 
 <ol><li>Kekayaan Sumber Energi di Indonesia</li><li>Pemanfaatan Kekayaan Alam di Indonesia</li><li>Pelestarian Sumber Daya Alam Indonesia</li><li>Karyaku Prestasiku</li></ol>
 
-Buku guru tema 9 <acronym title='Kurikulum 2013'>K13</acronym> ini disusun agar guru mendapat gambaran yang jelas dan rinci dalam setiap melaksanakan kegiatan pembelajaran di sekolah. Buku paket tema Kayanya Negeriku antara lain memuat:
+**Buku guru kelas 4 tema 9** <abbr title='Kurikulum 2013'>K13</abbr> ini disusun agar guru mendapat gambaran yang jelas dan rinci dalam setiap melaksanakan kegiatan pembelajaran di sekolah. Buku paket tema Kayanya Negeriku antara lain memuat:
 
 <ol><li>Jaringan tema yang memberi gambaran kepada guru tentang suatu tema yang melingkupi beberapa kompetensi dasar (KD) dari berbagai mata pelajaran;</li><li>Kegiatan pembelajaran tematik terpadu untuk menggambarkan kegiatan pembelajaran yang menyatu dan mengalir;</li><li>pengalaman belajar yang bermakna untuk membangun sikap dan perilaku positif, penguasaan konsep, keterampilan berpikir saintifik, berpikir tingkat tinggi, kemampuan menyelesaikan masalah, inkuiri, kreativitas dan pribadi reflektif;</li><li>berbagai teknik penilaian peserta didik;</li><li>informasi yang menjadi acuan kegiatan remedial dan pengayaan; serta</li><li>Kegiatan interaksi guru dan orang tua, yang memberikan kesempatan kepada orang tua untuk ikut berpartisipasi aktif melalui kegiatan belajar peserta didik di rumah, dan petunjuk penggunaan buku peserta didik. </li></ol>
 
-Kegiatan pembelajaran di buku ini didesain untuk mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan) peserta didik melalui aktivitas yang bervariasi.</p><p>Aktivitas tersebut meliputi:
+Kegiatan pembelajaran di buku guru didesain untuk mengembangkan kompetensi (sikap, pengetahuan, dan keterampilan) peserta didik melalui aktivitas yang bervariasi.</p><p>Aktivitas tersebut meliputi:
 
 <ol><li>Membuka pelajaran yang menarik perhatian peserta didik, seperti membacakan cerita, bertanya jawab, bernyanyi, permainan, demonstrasi, memberikan masalah dan sebagainya;</li><li>menginformasikan tujuan pembelajaran sehingga peserta didik dapat mengorganisasi informasi yang disampaikan (apa yang dilihat, didengar, dirasakan, dan dikerjakan);</li><li>Memantik pengetahuan peserta didik yang diperoleh sebelumnya agar peserta didik bisa mengaitkan pengetahuan terdahulu dan yang akan dipelajari;</li><li>Pemberian tugas yang bertahap guna membantu peserta didik memahami konsep;</li><li>Penugasan yang membutuhkan keterampilan tingkat tinggi;</li><li>Pemberian kesempatan untuk melatih keterampilan atau konsep yang telah dipelajari; serta</li><li>Pemberian umpan balik yang akan menguatkan pemahaman peserta didik.</li></ol>
 
@@ -76,7 +87,7 @@ Kegiatan pembelajaran di buku ini didesain untuk mengembangkan kompetensi (sikap
 Buku paket kelas 4 tema 9 ini dipublikasikan di blog ini bermaksud hanya untuk membantu guru, siswa dan orang tua yang tidak memiliki buku tersebut dan memerlukannya untuk proses pembelajaran atau bimbingan baik di sekolah maupun di rumah.
 <p>Bagi anda yang berkeinginan <b>mengunduh buku</b> ini niatkanlah dalam hati anda untuk mempergunakannya sebagaimana mestinya bukan untuk diperjualbelikan atau dikomersilkan.</p>
 
-### Fungsi Buku Guru
+### Fungsi Buku Guru Kelas 4 
 1. Sebagai Petunjuk Penggunaan Buku Siswa
 Informasi yang akan didapatkan dari Buku Guru adalah sebagai berikut.
 a. Karakteristik Kurikulum 2013, Kompetensi Inti, Kompetensi Dasar, dan Indikator Pencapaian Kompetensi Dasar Pembelajaran mata pelajaran terkait.
@@ -89,14 +100,14 @@ c. Menjelaskan tentang teknik dan instrumen penilaian yang dapat digunakan dalam
 3. Penjelasan tentang metode dan teknik yang digunakan dalam proses pembelajaran.
 
 ### Karakteristik Buku Guru
-Buku Guru kurikulum 2013 dirancang dengan karakteristik sebagai berikut.
+**Buku Guru Kelas 4 kurikulum 2013** dirancang dengan karakteristik sebagai berikut.
 
 1. Mengembangkan keseimbangan antara sikap spiritual dan sosial, pengetahuan, dan keterampilan, serta menerapkannya dalam berbagai situasi di sekolah dan masyarakat.
 2. Menempatkan sekolah sebagai bagian dari masyarakat yang memberikan pengalaman belajar agar siswa mampu menerapkan apa yang dipelajari di sekolah ke masyarakat dan memanfaatkan masyarakat dan lingkungan sebagai sumber belajar.
 3. Memberi waktu yang cukup leluasa untuk mengembangkan berbagai sikap, pengetahuan, dan keterampilan.
 4. Mengembangkan kompetensi yang dinyatakan dalam bentuk Kompetensi Inti yang dirinci lebih lanjut dalam Kompetensi Dasar mata pelajaran.
 5. Mengembangkan Kompetensi Inti menjadi unsur pengorganisasi (organizing elements) Kompetensi Dasar. Semua Kompetensi Dasar dan proses pembelajaran dikembangkan untuk mencapai kompetensi yang dinyatakan dalam Kompetensi Inti.
-6. Di dalam Buku Guru juga diinformasikan mengenai Standar Kompetensi Lulusan (SKL), Kompetensi Inti (KI), dan Kompetensi Dasar pada mata pelajaran terkait. 
+6. Di dalam Buku Guru Kelas 4 juga diinformasikan mengenai Standar Kompetensi Lulusan (SKL), Kompetensi Inti (KI), dan Kompetensi Dasar pada mata pelajaran terkait. 
 
 
 ### Download Buku Paket
